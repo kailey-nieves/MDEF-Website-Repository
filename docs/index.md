@@ -1,6 +1,6 @@
 ## Welcome
 
-<img src="images/kai.JPG">
+<img src="images/kai.jpg"alt="Kai" width="500" height="600">
 
 <h1>About Me</h1>
 
