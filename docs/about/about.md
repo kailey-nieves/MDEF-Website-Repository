@@ -1,7 +1,6 @@
 # About
 
-![](../images/perezoso.jpg)
+![](../images/kai.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My name is Kailey, but I prefer Kai and my pronouns are They / Them. I consider myself as a designer, puppeteer, agroecologist and multidisciplinary queer artist; anti-capitalist transfeminist defender of LGBTTIQ + rights. I am from a small island in the Caribbean called Puerto Rico, where I obtained a university degree in the studies of feminized bodies through design and performance. In my personal practice for some years now, I have done a lot of work with my hands, be it sewing, ceramics, reusing objects, and with plants. Now in this present, I am very interested in the fact of growing our own food so that it is sustainable and accessible to everyone and the creation of our own materials through the reuse of organic "waste" and / or materials, taking into account the experiences of each individual in terms of social injustices that exist in this system.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
