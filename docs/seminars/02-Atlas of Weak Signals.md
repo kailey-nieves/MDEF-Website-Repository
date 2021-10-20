@@ -24,6 +24,6 @@ It was very interesting to share the things that I had thought or seen with peop
 By this week work I would like to be able to contact people who give or do permaculture and / or botany. in addition to people who work with growing food for communities and who have a waste system either for themselves and / or for the community. And I would like to experiment with lichens and mycelium or any sort of organism that can give me the tools to build a sustainable source of food. Maybe building a biomaterial that gives food if you discard it. Or maybe finding a way to create or know a fungi or bacteria that eats plastic. I just know that I want to keep experimenting with different kind of biomaterials and growing food.
 The new skill that I would like to add to my personal development plan is knowing bacteria and fungi and plants as essentials organisms in our system. How to identify them and knowing for what they can be used for and creating biomaterials with them. I would also like to add the fact of being able to contribute and / or direct people who do not know how to cultivate at home and the possibilities they have. Finally, I would like to add as a skill in my personal plan, to be capable enough to create a project that integrates my interests such as biomaterials and agriculture.
 
-
+<img src= "../../images/Diagram.jpg" alt="Photo of Group Discussion">
 
 ![](../images/MT01/scorpio_blow.jpg)
