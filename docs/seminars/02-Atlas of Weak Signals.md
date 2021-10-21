@@ -7,7 +7,7 @@ hide:
 
 <h1> Kai’s Main Signals: </h1>
 
-<img src= "../../images/signal.png" alt="Photo of Main Signal">
+<img src= "../../images/signal.png" alt="Photo of Main Signal" width="200" height="500">
 
 Bio-culture/materials
 
