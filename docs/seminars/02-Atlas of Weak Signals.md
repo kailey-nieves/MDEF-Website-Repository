@@ -5,8 +5,7 @@ hide:
 
 # Atlas of Weak Signals
 
-
-Kai’s Main Signals:
+<h1> Kai’s Main Signals: </h1>
 
 <img src= "../../images/signal.png" alt="Photo of Main Signal">
 
