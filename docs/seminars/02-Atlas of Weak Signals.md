@@ -27,4 +27,4 @@ The new skill that I would like to add to my personal development plan is knowin
 
 <img src= "../../images/Diagram.jpg" alt="Photo of Group Discussion">
 
-![](../images/MT01/scorpio_blow.jpg)
+

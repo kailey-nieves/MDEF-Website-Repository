@@ -1,8 +1,9 @@
+<img src= "../../images/centepide9.jpg" alt="Photo of a Centepide">
+
 <img src= "../../images/bio1.jpg" alt="Photo of Microorganism Cultivation">
 
 <img src= "../../images/bio2.jpg" alt="Photo of Microorganism Cultivation">
 
-<img src= "../../images/bio3.jpg" alt="Photo of Microorganism Cultivation">
 
 <img src= "../../images/spirulina1.jpg" alt="Photo of Spirulina Cultivation">
 
