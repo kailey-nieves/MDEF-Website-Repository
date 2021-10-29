@@ -12,6 +12,8 @@ This is our concept map in the house, about things that revolve around the word 
 
 Although I think I still have things to experiments in order to have an idea of where I want to go with agriculture, I decided to start by experimenting on the possibilities of creating toys with biomaterial.
 
+
+
 01 Experiment:
 
 Biomaterial puppets
