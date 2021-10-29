@@ -1,6 +1,8 @@
 
 # 01 Design Space 
 
+<img src= "../../images/designspace.png" alt="Photo of my design space">
+
 Materials that I have:
 
 
