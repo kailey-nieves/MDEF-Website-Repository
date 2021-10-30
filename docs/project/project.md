@@ -29,3 +29,4 @@ Makinf it with Biomaterials.
 
 This is the second prototype of the head of a puppet in 3D digital modeling. The fisrt one, was in clay that dries with the air.
 <img src= "../../images/modelo.png" alt="Photo of 3D digital modeling of a puppet's head">
+<img src= "../../images/modelado.png" alt="Photo of 3D digital modeling of a puppet's head">
