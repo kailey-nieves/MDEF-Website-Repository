@@ -13,6 +13,6 @@ The interventions in the group revolve around various discourses one makes, in s
 
 
 Challenge yourself:
-<video width="320" height="240" controls>
+<video width="420" height="340" controls>
   <source src= "../../images/Don't get lost - Kai Nieves [new].mp4" type="video/mp4">
   
