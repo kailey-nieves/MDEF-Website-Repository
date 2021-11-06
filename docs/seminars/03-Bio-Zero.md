@@ -3,7 +3,7 @@
 
 <img src= "../../images/microbios.png" alt="Photo microorganism cultivation">
 
-I think it is very interesting in the way that we enter different branches in Bio-Zero. Exciting to be able to grow micro-organisms from things we find.
+I think it was very interesting in the way that we entered different branches in Bio-Zero. Exciting to be able to grow micro-organisms from things we find.
 
 <img src= "../../images/Bacterias.png" alt="Photo of bacterias">
 
