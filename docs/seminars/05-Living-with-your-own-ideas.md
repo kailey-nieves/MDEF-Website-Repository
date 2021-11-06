@@ -13,7 +13,6 @@ The interventions in the group revolve around various discourses one makes, in s
 
 “A day in my new life” 
 - A personal challenge as an extreme reflection -
-<video width="620" height="540" controls>
-  <source src= "../../images/Don't get lost - Kai Nieves [new].mp4" type="video/mp4">
+<video src= "../../images/Don't get lost - Kai Nieves [new].mp4" type="video/mp4" width="620" height="540" controls>
 
 Reflection:
