@@ -1,5 +1,5 @@
  
-# Living with your own ideas
+# 0.1 Living with your own ideas
 
 A drawing of myself in 3 seconds & the meaning of my magical machine:
 <img src= "../../images/yo.png" alt="Photo of me and my reflection">
@@ -10,8 +10,3 @@ Solar Punk Group Reflection:
 The interventions in the group revolve around various discourses one makes, in search for identity of oneself. There is a shared common interest in finding a balance between the internal and the external parts of life. This balance is explored by different ways of engagement tied together by a common aspect of positionality. 
 
 <img src= "../../images/grupo3.png" alt="Photo of group">
-
-“A day in my new life” 
-A personal challenge as an extreme reflection -
-<video src= "../../images/Don't get lost - Kai Nieves [new].mp4" type="video/mp4" width="620" height="540" controls>
-
