@@ -3,7 +3,7 @@
 
 A drawing of myself in 3 seconds & the meaning of my magical machine:
 <img src= "../../images/yo.png" alt="Photo of me and my reflection">
-My machine:
+My magic machine:
 <img src= "../../images/bocetos.png" alt="Photo of my workshop craft">
 Solar Punk Group Reflection:
 
