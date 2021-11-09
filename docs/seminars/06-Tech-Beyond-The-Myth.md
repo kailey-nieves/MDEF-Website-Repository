@@ -135,11 +135,17 @@ What do you learn? What surprised you?
 ![](https://i.imgur.com/rldP8SG.jpg)
 ![](https://i.imgur.com/sJQ5k3v.jpg)
 ![](https://i.imgur.com/i6rjL1X.gif)
+
 The unscrewing and opening of the induction stove from the bottome
+
 ![](https://i.imgur.com/eCHWEav.gif)
+
 The induction oven's user interface with sensing buttons 
+
 ![](https://i.imgur.com/WXUuyJZ.gif)
+
 Powering of the LEDs of the user interface
+
 ![](https://i.imgur.com/oX2rYgI.gif)
 
 
