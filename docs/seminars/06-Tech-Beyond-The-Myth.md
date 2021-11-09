@@ -29,7 +29,9 @@ Descriptive list of items submitted for examination, including serial number, br
 :::
 
 Princess 
+
 Slim Induction Cooker
+
 Serial no.: 1304-303006
 
 
@@ -37,12 +39,14 @@ Serial no.: 1304-303006
 :::warning
 What does it do? How does it work? How it's built? Why it failed, or it wasn't used anymore?
 :::
+
 Is it an induction cooker? How does it work? Is it broken? Can we fix it? What is inside?
 
 ## Steps taken
 :::warning
 Research we carried out, i.e. Separating the components by type, searching for specific parts datasheets. Link datasheets and other relative documents.
 :::
+
 1. The unit was plugged in to an electrical outlet. Result: No signs of life.
 
 2. The screws in the bottom cover were removed.
@@ -115,19 +119,28 @@ A summary of the overall report, in particular about the results.
 :::
 
 - At first nothing was working, so we disected it to see if any components were working, then we tried powering the user interface circuit board, which was not working.
-- We got some components to turn on: the exhaust fan, the LED lights
+
+- We got some components to turn on: the exhaust fan, the LED lights.
+
 - Conclusion: It doesn't work. Inconclusive as to the culprit
+
 
 ## Opinions
 :::warning
 What do you learn? What surprised you? 
 :::
+
 - The copper coil is perhaps worth selling.
+
 - The circuit boards look like a city.
-- Learned about heat sinks
-- Noise filters
-- Something so simple is actually so complex
-- The user interface more interesting than expected
+
+- Learned about heat sinks.
+
+- Noise filters.
+
+- Something so simple is actually so complex.
+
+- The user interface more interesting than expected.
 
 ## Images and videos
 
