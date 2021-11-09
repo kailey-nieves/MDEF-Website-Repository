@@ -131,8 +131,9 @@ What do you learn? What surprised you?
 
 ## Images and videos
 
-
-
+![](https://i.imgur.com/pDNi1JQ.jpg)
+![](https://i.imgur.com/rldP8SG.jpg)
+![](https://i.imgur.com/sJQ5k3v.jpg)
 ![](https://i.imgur.com/i6rjL1X.gif)
 The unscrewing and opening of the induction stove from the bottome
 ![](https://i.imgur.com/eCHWEav.gif)
