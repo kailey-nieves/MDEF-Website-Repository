@@ -144,6 +144,10 @@ What do you learn? What surprised you?
 
 ## Images and videos
 
+![](https://i.imgur.com/vx1IHwQ.jpg)
+
+Induction cooker dissected
+
 ![](https://i.imgur.com/pDNi1JQ.jpg)
 ![](https://i.imgur.com/rldP8SG.jpg)
 ![](https://i.imgur.com/sJQ5k3v.jpg)
