@@ -1,10 +1,8 @@
 
 # Bio-Zero
 
+This week was very interesting by the way we entered different branches in general science. Exciting to be able to grow micro-organisms from things we found.
 <img src= "../../images/microbios.png" alt="Photo microorganism cultivation">
-
-This week was very interesting by the way that we entered different branches in general science. Exciting to be able to grow micro-organisms from things we found.
-
 <img src= "../../images/Bacterias.png" alt="Photo of bacterias">
 
 ## iGEM Experiment
