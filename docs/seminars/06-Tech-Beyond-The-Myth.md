@@ -154,7 +154,7 @@ Induction cooker dissected
 ![](https://i.imgur.com/i6rjL1X.gif)
 
 The unscrewing and opening of the induction stove from the bottome
-
+![](https://i.imgur.com/NwtGPuP.png)
 ![](https://i.imgur.com/eCHWEav.gif)
 
 The induction oven's user interface with sensing buttons 
