@@ -32,6 +32,9 @@ Dieckmann, R. (2016, 7 octubre). The Risk of Bacterial Infection After Tattooing
 
 User, S. (s. f.). Cosmetics testing - Microbiology of cosmetics. Detection and counting of aerobic mesophilic bacteria (UNE-EN ISO 21149: 2017). Accredited by ENAC. IVAMI. https://www.ivami.com/en/microbiology-of-cosmetics-laboratory-of-control-authorized-by-aemps-8-accredited-tests/3353-ca-cosmetics-testing-microbiology-of-cosmetics-b-detection-and-counting-of-aerobic-mesophilic-bacteria-b-une-en-iso-21149-2017-b-accredited-by-enac-b
 
+
+## Spirulina & Kombucha Cultivation 
+
 Growing spirulina and kombucha were the two things that most motivated and captivated me. It is not my first time working with kombucha, as I have become scoby sane. but, to return to the concept of cultivating it with others, I really liked it. Furthermore, spirulina had never grown before and neither did I know that it was used as food.
 After this, the exercise of looking for things outside to see them under a microscope was fun. I carried a hundred foot dead that I had killed the day before and seeing its textures and colors was fascinating.
 <img src= "../../images/cienpie.png" alt="Photo of a Cienpies">
