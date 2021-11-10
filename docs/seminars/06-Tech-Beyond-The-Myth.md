@@ -1,8 +1,7 @@
 
 # Tech Beyond the Myth
 
-Forensic Report: Princess Induction Cooker Group 
-===============
+## Forensic Report: Princess Induction Cooker Group 
 
 
 ![](https://i.imgur.com/nbSAG6S.png)
