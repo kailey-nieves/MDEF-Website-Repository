@@ -37,11 +37,11 @@ Title: Biodegradation of bioplastics in natural environments
 
 References:
 
-Bonnet, M. (2019, 30 noviembre). Bacterial culture through selective and non-selective conditions: the evolution of culture media in clinical microbiology. NCBI. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6961714/
+Bonnet, M. (2019, 30 noviembre). Bacterial culture through selective and non-selective conditions: the evolution of culture media in clinical microbiology. NCBI. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6961714/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6961714/)
 
-Culturing Bacteria | Boundless Microbiology. (s. f.). Lumen. https://courses.lumenlearning.com/boundless-microbiology/chapter/culturing-bacteria/
+Culturing Bacteria | Boundless Microbiology. (s. f.). Lumen. [https://courses.lumenlearning.com/boundless-microbiology/chapter/culturing-bacteria/](https://courses.lumenlearning.com/boundless-microbiology/chapter/culturing-bacteria/)
 
-Dieckmann, R. (2016, 7 octubre). The Risk of Bacterial Infection After Tattooing. NCBI. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5290255/
+Dieckmann, R. (2016, 7 octubre). The Risk of Bacterial Infection After Tattooing. NCBI. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5290255/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5290255/)
 
 User, S. (s. f.). Cosmetics testing - Microbiology of cosmetics. Detection and counting of aerobic mesophilic bacteria (UNE-EN ISO 21149: 2017). Accredited by ENAC. IVAMI. [https://www.ivami.com/en/microbiology-of-cosmetics-laboratory-of-control-authorized-by-aemps-8-accredited-tests/3353-ca-cosmetics-testing-microbiology-of-cosmetics-b-detection-and-counting-of-aerobic-mesophilic-bacteria-b-une-en-iso-21149-2017-b-accredited-by-enac-b](https://www.ivami.com/en/microbiology-of-cosmetics-laboratory-of-control-authorized-by-aemps-8-accredited-tests/3353-ca-cosmetics-testing-microbiology-of-cosmetics-b-detection-and-counting-of-aerobic-mesophilic-bacteria-b-une-en-iso-21149-2017-b-accredited-by-enac-b)
 
