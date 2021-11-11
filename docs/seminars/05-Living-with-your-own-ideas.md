@@ -3,7 +3,7 @@
 
 A drawing of myself in 3 seconds & the meaning of my magical machine:
 <img src= "../../images/yo.png" alt="Photo of me and my reflection">
-My magic machine:
+My magical machine:
 <img src= "../../images/bocetos.png" alt="Photo of my workshop craft">
 Solar Punk Group Reflection:
 
@@ -19,20 +19,25 @@ The interventions in the group revolve around various discourses one makes, in s
 Reflection:
 
 -What did you make? And why did it matter?
+
 I went to the nearest park around my neighborhood without my cellphone, to challenge my self on cultivating my sense of direction. Did a memory map after getting home, about what I remembered of the route. It matter for me, because I was able to separate myself from technology for a while and explore my neighborhood, finding new spaces that I had not seen before. Asides from that, it was interesting to challenge myself to work with my memory, since I am a person who constantly forgets things.
 
 -What happens when you involve yourself? What happens when you use yourself as an instrument?
+
 I was involved in every aspect of the intervention because I worked with my memory exclusively.
 
 -Did anything change about your way of working?
+
 I think that if I keep working memory exercises in different ways, it can help with concentration problems, headaches, etc.
 
 -What does it mean for your future work?
+
 It means that I could feel good about myself. It means that I could resolve my frustrations effectively without allowing it to affect me emotionally and mentally. I think that you cannot separate the personal from the professional, that is who we are and what defines us. And, if before we do not address the problems that haunt us, we will continue dragging them along the way. Also, I think that having done this exercise on something personal can help me to flow with the things that come my way and to feel safe regarding the future projects that I want to create. Also, on the way to the unknown, I entered into a deep reflection of how this work that was directed at my personal things could be transformed. Well, with help, I was able to understand that it can be a way to create urban graden in public spaces, marking on a map the exact places where food for everyone would be planted.
 
 -After seeing the videos of your collective, how does it change your
 understanding of it, present new opportunities or inspire new
 possibilities for collaboration?
+
 After having seen the videos of my group mates, I don't see that they are related to mine. Well, mine was very personal and theirs was well directed to the things they want to continue working on. Likewise, I see it important that even though they were not the same, to know what page they are on and in what things they could help me or we could collaborate. I can also say that although I want to work with agriculture and although my intervention was not directed towards that, I find that I do not feel identified with some of my group because they are going outside the line of agriculture. Even though their interventions were really good and if I wanted to look for alternatives of how to work agriculture in other aspects, it would be a good exchange of knowledge. And as I said, I think my intervention could transform towards agricultural themes, so in that case it could be related to my collectives interventions too.
 
 <video src= "../../images/Don't get lost - Kai Nieves [new].mp4" width="520" height="440" controls></video>
