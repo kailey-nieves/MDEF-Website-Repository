@@ -29,6 +29,11 @@ Growing spirulina and kombucha were the two things that most motivated and capti
 After this, the exercise of looking for things outside to see them under a microscope was fun. I carried a hundred foot dead that I had killed the day before and seeing its textures and colors was fascinating.
 <img src= "../../images/cienpie.png" alt="Photo of a Cienpies">
 
+## Science paper
+
+Title: Biodegradation of bioplastics in natural environments
+
+https://www.sciencedirect.com/science/article/abs/pii/S0956053X1630561X
 
 References:
 
