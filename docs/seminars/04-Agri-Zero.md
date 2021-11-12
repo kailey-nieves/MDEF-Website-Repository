@@ -1,9 +1,9 @@
 
 # Agri-Zero
 
-<h1> Why do we want to change agriculture? </h1>
+## Why do we want to change agriculture?
 
-I think it is well necessary to rethink and reevaluate ourselves so that we can effectively change the agricultural processes that exist today. in addition to that I believe in food sovereignty from the lowest and accessible to all people. I have my conflicts with the fact that we live in a capitalist system that forces us to buy food and housing in order to live.
+I think it is well necessary to rethink and reevaluate ourselves so that we can effectively change the agricultural processes that exist today. In addition to that, I believe in food sovereignty from the lowest and accessible to all people. I have my conflicts with the fact that we live in a capitalist system that forces us to buy food and housing in order to live.
 We should decapitalize food so everyone has a plate of food on their tables. and I think the best way to do this is to take the empty spaces in our cities and create urban gardens.I understand that there is a need to leave agricultural work in the field because the city cannot sustain it, but that is the point of doing it, that the communities get involved in these processes.
 
 <img src= "../../images/Agricultura.jpg" alt="Photo of a Conceptual Map">
