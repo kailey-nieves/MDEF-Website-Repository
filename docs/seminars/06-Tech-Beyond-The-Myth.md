@@ -321,7 +321,7 @@ So with some help of how to recover the data, the today day morning, we made a "
 During the process of collecting this data, watching people through the camera, we collected that 49 of people in average didn’t looked at all, 15.5 in average looked, and 15.5 in average stopped to read.
 We reflect that maybe the spot were we put the poster, wasn’t the best spot to it because there is more quantity of people that didn’t looked compared to the ones that did. Maybe if we had more time, we could change the spot to another one like in the bathroom or in another space that people is obligated to look; such as the gender expression group that selected the bathroom and at a simple view, they had a lot of reactions. So, instead of using a camera because of privacy if we choose the bathroom, we could make a more interactive intervention of people expressing how they feel about not having a lunch space, or were do they eat or if they like to occupy a space to have lunch, or maybe if they want to join to make the rooftop a more capable space to have lunch.
 
-This take us to other questions regarding to the exercise of choosing a hypothesis sauce as, could we change the rooftop for this purpose?, were people eat during lucnh time?, how many people don't eat at iaaac because ther is no common space?
+This take us to other questions regarding to the exercise of choosing a hypothesis sauce as, could we change the rooftop for this purpose?, were people eat during lunch time?, how many people don't eat at iaaac because ther is no common space?
 
 
 
