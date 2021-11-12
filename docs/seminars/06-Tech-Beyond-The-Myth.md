@@ -170,9 +170,6 @@ Powering of the LEDs of the user interface
 
 ## Data Recollection
 
-**Lunch poster**
-<img src= "../../images/poster.pdf" alt="Photo of the luch poster">
-
 **Eating Space at IAAC 🍝**
 ====================
 
