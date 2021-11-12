@@ -34,6 +34,7 @@ Serial no.: 1304-303006
 
 
 **Forensic Questions**
+
 :::
 What does it do? How does it work? How it's built? Why it failed, or it wasn't used anymore?
 :::
@@ -41,6 +42,7 @@ What does it do? How does it work? How it's built? Why it failed, or it wasn't u
 Is it an induction cooker? How does it work? Is it broken? Can we fix it? What is inside?
 
 **Steps taken**
+
 :::
 Research we carried out, i.e. Separating the components by type, searching for specific parts datasheets. Link datasheets and other relative documents.
 :::
@@ -75,6 +77,7 @@ Research we carried out, i.e. Separating the components by type, searching for s
 15. The user interface circuit board was powered directly with a power supply. Result: No signs of life. Perhaps something on this board is causing the problem with the device not powering on.
 
 **Results**
+
 :::
 Answers to the forensic questions. i.e. How many motors we find inside, does it contain a computer or microcontroller? Did the appliance failed, why?
 :::
@@ -112,6 +115,7 @@ Electrical components:
 - beeper
 
 **Conclusions**
+
 :::
 A summary of the overall report, in particular about the results.
 :::
@@ -124,6 +128,7 @@ A summary of the overall report, in particular about the results.
 
 
 **Opinions**
+
 :::
 What do you learn? What surprised you? 
 :::
