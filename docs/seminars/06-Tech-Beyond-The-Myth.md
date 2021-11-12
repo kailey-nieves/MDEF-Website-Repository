@@ -164,7 +164,9 @@ Powering of the LEDs of the user interface
 
 ![](https://i.imgur.com/oX2rYgI.gif)
 
+## Data Recollection
 
+<img src= "../../images/poster.pdf" alt="Photo of the luch poster">
 
 
 
