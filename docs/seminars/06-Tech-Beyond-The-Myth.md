@@ -20,8 +20,7 @@
 | Date of report                         | 09/11/2021                     |
 | Identity and signature of the examiner | Kai, Busi, Vikrant, Pipa, Jeremy                     |
  
-
-## Examination 
+**Examination**
 
 :::warning
 Descriptive list of items submitted for examination, including serial number, brand and model
@@ -34,14 +33,14 @@ Slim Induction Cooker
 Serial no.: 1304-303006
 
 
-## Forensic Questions
+**Forensic Questions**
 :::warning
 What does it do? How does it work? How it's built? Why it failed, or it wasn't used anymore?
 :::
 
 Is it an induction cooker? How does it work? Is it broken? Can we fix it? What is inside?
 
-## Steps taken
+**Steps taken**
 :::warning
 Research we carried out, i.e. Separating the components by type, searching for specific parts datasheets. Link datasheets and other relative documents.
 :::
@@ -75,7 +74,7 @@ Research we carried out, i.e. Separating the components by type, searching for s
 
 15. The user interface circuit board was powered directly with a power supply. Result: No signs of life. Perhaps something on this board is causing the problem with the device not powering on.
 
-## Results
+**Results**
 :::warning
 Answers to the forensic questions. i.e. How many motors we find inside, does it contain a computer or microcontroller? Did the appliance failed, why?
 :::
@@ -112,7 +111,7 @@ Electrical components:
 
 - beeper
 
-## Conclusions
+**Conclusions**
 :::warning
 A summary of the overall report, in particular about the results.
 :::
@@ -124,7 +123,7 @@ A summary of the overall report, in particular about the results.
 - Conclusion: It doesn't work. Inconclusive as to the culprit
 
 
-## Opinions
+**Opinions**
 :::warning
 What do you learn? What surprised you? 
 :::
@@ -141,7 +140,7 @@ What do you learn? What surprised you?
 
 - The user interface more interesting than expected.
 
-## Images and videos
+ **Images and videos**
 
 ![](https://i.imgur.com/vx1IHwQ.jpg)
 
@@ -166,6 +165,7 @@ Powering of the LEDs of the user interface
 
 ## Data Recollection
 
+**Lunch poster**
 <img src= "../../images/poster.pdf" alt="Photo of the luch poster">
 
 
