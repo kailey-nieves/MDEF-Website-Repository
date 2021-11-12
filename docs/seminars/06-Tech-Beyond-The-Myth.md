@@ -1,6 +1,9 @@
 
 # Tech Beyond the Myth
 
+**Journal Index**
+
+[TOC]
 ## Forensic Report: Princess Induction Cooker Group 
 
 
@@ -178,10 +181,6 @@ Measuring the world / A world in data activity report.
 
 ![](https://i.imgur.com/NN5hYXb.jpg)
 
-
-**Journal Index**
-
-[TOC]
 
 **From objectives to the hypothesis**
 
