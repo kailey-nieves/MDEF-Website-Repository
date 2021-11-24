@@ -1,7 +1,6 @@
 
 # Tech Beyond the Myth
 
-**Journal Index**
 
 [TOC]
 ## Forensic Report: Princess Induction Cooker Group 
@@ -173,7 +172,7 @@ Powering of the LEDs of the user interface
 
 ## Data Recollection
 Eating Space at IAAC 🍝
-====================
+
 
 Measuring the world / A world in data activity report.
 **Andrea | Dídac | Kai | Rei | Ruben**
