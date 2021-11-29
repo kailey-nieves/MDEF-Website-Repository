@@ -6,7 +6,7 @@
 ## FABRICATION_
 <img src= "../../images/Fabrication.png" alt="Photo of fabrication">
 
-## HERE THE LINK TO THE VIDEO TO OUR USELESS MACHINE_ :)
+## OUR USELESS MACHINE_ :)
 [https://youtu.be/wdrpc9YuWf8](https://youtu.be/wdrpc9YuWf8)
 
 ## WHAT IS IT SUPPOSED 2 DO?_
