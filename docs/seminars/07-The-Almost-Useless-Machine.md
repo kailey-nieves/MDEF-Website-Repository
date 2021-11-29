@@ -6,7 +6,7 @@ HOW HAPPY DO YOU WANNA FEEL TODAY?_ :)
 FABRICATION_
 <img src= "../../images/Fabrication.png" alt="Photo of fabrication">
 
-[https://youtu.be/wdrpc9YuWf8](https://youtu.be/wdrpc9YuWf8](https://youtu.be/wdrpc9YuWf8](https://youtu.be/wdrpc9YuWf8) 
+[https://youtu.be/wdrpc9YuWf8](https://youtu.be/wdrpc9YuWf8)
 
 WHAT IS IT SUPPOSED 2 DO?_
 <img src= "../../images/Work.png" alt="Photo of how it supposed to work">
