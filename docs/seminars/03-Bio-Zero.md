@@ -1,7 +1,8 @@
 
 # Bio-Zero
 
-This week was very interesting by the way we entered different branches in general science. Exciting to be able to grow micro-organisms from things we found.
+This week was very interesting by the way we entered different branches in general science. Exciting to be able to grow micro-organisms from things we found. It felt like a very long seminar because of all the information that Jonathan and Nuria gave to us. It was too, because every day, they talked about a different topic so it was a bit exhausting. But, I think that with help of this seminar, I am interested in continue explorations regarding biology.
+
 <img src= "../../images/microbios.png" alt="Photo microorganism cultivation">
 <img src= "../../images/Bacterias.png" alt="Photo of bacterias">
 
@@ -25,8 +26,8 @@ I search online about how to detect  aerobic mesophilic bacteria and got to the 
 
 ## Spirulina & Kombucha Cultivation 
 
-Growing spirulina and kombucha were the two things that most motivated and captivated me. It is not my first time working with kombucha, as I have become scoby sane. but, to return to the concept of cultivating it with others, I really liked it. Furthermore, spirulina had never grown before and neither did I know that it was used as food.
-After this, the exercise of looking for things outside to see them under a microscope was fun. I carried a hundred foot dead that I had killed the day before and seeing its textures and colors was fascinating.
+Growing spirulina and kombucha were the two things that most motivated and captivated me. It is not my first time working with kombucha, as I have become scoby mother. But, to return to the concept of cultivating it with others, I really liked it. Furthermore, spirulina had never grown before and neither did I know that it was used as food.
+After this, the exercise of looking for things outside to see them under a microscope was fun. I carried a dead hundred foot insect that I had killed the day before and seeing its textures and colors with a microscope was fascinating.
 <img src= "../../images/cienpie.png" alt="Photo of a Cienpies">
 
 ## Science paper
@@ -35,11 +36,9 @@ Title: Biodegradation of bioplastics in natural environments
 
 [https://www.sciencedirect.com/science/article/abs/pii/S0956053X1630561X](https://www.sciencedirect.com/science/article/abs/pii/S0956053X1630561X)
 
-References:
 
-Bonnet, M. (2019, 30 noviembre). Bacterial culture through selective and non-selective conditions: the evolution of culture media in clinical microbiology. NCBI. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6961714/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6961714/)
 
-Culturing Bacteria | Boundless Microbiology. (s. f.). Lumen. [https://courses.lumenlearning.com/boundless-microbiology/chapter/culturing-bacteria/](https://courses.lumenlearning.com/boundless-microbiology/chapter/culturing-bacteria/)
+## References:
 
 Dieckmann, R. (2016, 7 octubre). The Risk of Bacterial Infection After Tattooing. NCBI. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5290255/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5290255/)
 
