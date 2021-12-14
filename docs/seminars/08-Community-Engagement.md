@@ -20,3 +20,6 @@ Two important organizations for our intervention that integrate people in a situ
 <img src= "../../images/Mapping (1).jpg" alt="Photo of Future Vision">
 How do we get there?
 From our past investigation and project we can do an educative intervention from our knowledge to kids or even adults about production systems for electronics with sustainable materials. And that will take us to the future of achieving systems with sustainable electronics.
+
+Link to our Miro Board:
+[https://miro.com/app/board/uXjVOf3XDVg=/](https://miro.com/app/board/uXjVOf3XDVg=/)
