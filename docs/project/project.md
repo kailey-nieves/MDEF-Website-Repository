@@ -16,7 +16,7 @@ Although I think I still have things to experiments in order to have an idea of 
 
 
 
-01 Design Studio Experiment:
+01. Design Studio Experiment:
 
 Biomaterial puppets
 
@@ -29,3 +29,13 @@ Makinf it with Biomaterials.
 This is the second prototype of the head of a puppet in 3D digital modeling. The fisrt one, was in clay that dries with the air.
 <img src= "../../images/modelo.png" alt="Photo of 3D digital modeling of a puppet's head">
 <img src= "../../images/modelado.png" alt="Photo of 3D digital modeling of a puppet's head">
+
+02. Design Studio Experiment:
+
+Biomaterials 
+
+I have been taking different workshops with individuals outside Iaac, to keep investigating & experimenting alternatives materials.
+<img src= "../../images/biomateriales.jpg" alt="Photo of biomaterial Preparation">
+This biomaterial was made with pine resin and carnauba wax.
+I made different samples to see how dyes, organic material and molds reacted to the biomaterial. I used lavander, spirulina dye, oxide, hibiscus flower in alcohol, egg shells and many others to do different testings & this were some of the results.
+<img src= "../../images/resultados.png" alt="Photo of biomaterial results">
