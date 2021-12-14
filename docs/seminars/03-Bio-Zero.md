@@ -4,7 +4,7 @@
 This week was very interesting by the way we entered different branches in general science. Exciting to be able to grow micro-organisms from things we found. It felt like a very long seminar because of all the information that Jonathan and Nuria gave to us. It was too, because every day, they talked about a different topic so it was a bit exhausting. But, I think that with help of this seminar, I am interested in continue explorations regarding biology.
 
 <img src= "../../images/mediasamples.jpg" alt="Photo microorganism cultivation">
-<img src= "../../images/Bacterias.png" alt="Photo of bacterias">
+<img src= "../../images/petri.jpg" alt="Photo of petri bacterias">
 
 ## iGEM Experiment
 
@@ -18,7 +18,7 @@ Non-selective Agar Medium strip to detect Aerobic Mesophilic Bacteria
 
 I search online about how to detect  aerobic mesophilic bacteria and got to the tests of bacterias in cosmetics. What they perform is a test by diluting in a neutralized solution, at the same time the product is subjected to an enrichment culture to facilitate growth of some bacteria that may be represented in a low number. Dilutions of the product in neutralizing solution and enrichment culture is plate on solid non-selective agar medium (Non-selective media are intended to cultivate microorganisms in order to multiply them. It is a simple culture medium without a selection agent that will allow the growth of microorganisms in an undifferentiated way) and incubated for 72 hours at 32.5ºC.
 
-<img src= "../../images/Aerobic-Bacteria.jpg" alt="Photo of aerobic bacterias from google">
+<img src= "../../images/bacterias.jpg" alt="Photo of bacterias around Iaac">
 
 “The most common growth media nutrient broths (liquid nutrient medium) or LB medium (Lysogeny Broth) are liquid. These are often mixed with agar and poured into Petri dishes to solidify. These agar plates provide a solid medium on which microbes may be cultured. They remain solid, as very few bacteria are able to decompose agar. Many microbes can also be grown in liquid cultures comprised of liquid nutrient media without agar”.
 <img src= "../../images/sembra-en-estria.svg" alt="Photo of petri dishes">
@@ -36,7 +36,7 @@ Title: Biodegradation of bioplastics in natural environments
 
 [https://www.sciencedirect.com/science/article/abs/pii/S0956053X1630561X](https://www.sciencedirect.com/science/article/abs/pii/S0956053X1630561X)
 
-<img src= "../../images/petri.jpg" alt="Photo of bacterias">
+
 
 ## References:
 
