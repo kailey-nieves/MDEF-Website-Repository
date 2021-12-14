@@ -4,8 +4,7 @@
 <img src= "../../images/designspace.png" alt="Photo of my design space">
 
 Materials that I have:
-
-<img src= "../../images/kai.png" alt="Photo of a materials that I have">
+<img src= "../../images/instrumentos.jpg" alt="Photo personal instruments">
 Having a conversation with one of my colleagues (Ruben), we came to the conclusion that we wanted to work with the same thing, agriculture. But what about it in particular is or was that we did not know. He told me that he wanted to make a concept map to see if he could get something from it and that idea make me to do the same exercise but at home, including my two roommates/friends. To give a bit of context, my two roommates are from Puerto Rico, just like me. In addition to that, one of them is studying Agroecology and the other, Studies of women and gender at the Faculty of Geography but with knowledge in feminist ecology, both at the University of Barcelona. Therefore, what better help than three minds and bodies that come from the same context, from a small island in the Caribbean that is still a colony of the United States and that are studying things related?
 
 This is our concept map in the house, about things that revolve around the word "Agriculture".
