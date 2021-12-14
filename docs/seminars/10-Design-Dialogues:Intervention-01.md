@@ -15,4 +15,4 @@ And Preparation:
 We got to talk about our plans for the intervention with Mariana and she suggested to go a step back in the workshop with the kids, because we don't have knowledge of how to reach kids attention. So we decided to do the workshop with at least three teachers that work with kids around five to seven years, and have their oponion if it is a good workshop to do and if kids will be interested in.
 
 Video of our intervention:
-<video src= "../../images/Biothesizer_KaiAnna.mp4" width="520" height="440" controls></video>
+<video src= "../../images/Biothesizer_KaiAnna.mp4" width="600" height="520" controls></video>
