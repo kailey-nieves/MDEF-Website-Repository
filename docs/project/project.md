@@ -29,7 +29,7 @@ This is the second prototype of the head of a puppet in 3D digital modeling. The
 
  - Biomaterials - Biopolimers 
 
-I have been taking different workshops with individuals outside Iaac, to keep investigating & experimenting alternatives materials.
+I have been taking different workshops with individuals outside Iaac, to keep investigating & experimenting alternatives materials. This workshop was imparted by Lara Campos, a collaborator with fablab Barcelona on a proyect called "Remix el Barrio".
 
 <img src= "../../images/biomateriales.jpg" alt="Photo of biomaterial Preparation">
 This biomaterial was made with pine resin and carnauba wax.
