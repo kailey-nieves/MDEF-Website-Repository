@@ -47,7 +47,7 @@ REFLECTIONS:
 
 - This kind of process is a source of “Almost infinite” resources for creativity.  
 
-Link to our presentation:
+Link to our Generator presentation:
 [https://docs.google.com/presentation/d/1-4Eb5VKIGf3kqSfr40TxhLEWaPGLjzwR7zazM_jlasY/edit#slide=id.p](https://docs.google.com/presentation/d/1-4Eb5VKIGf3kqSfr40TxhLEWaPGLjzwR7zazM_jlasY/edit#slide=id.p0)
 
 ## Electroshock Table
@@ -62,4 +62,5 @@ From this issue/problem, we think it is needed a table which could be able to id
 <img src= "../../images/useroutput.png" alt="Photo of user output">
 <img src= "../../images/output.png" alt="Photo of output">
 
-
+Link to our Electroshock Table presentation:
+[https://docs.google.com/presentation/d/1YzZN2AbXcgSpEURAQjZyXFuVauDLE0HgrQWbjQQKzRk/edit#slide=id.p](https://docs.google.com/presentation/d/1YzZN2AbXcgSpEURAQjZyXFuVauDLE0HgrQWbjQQKzRk/edit#slide=id.p)
