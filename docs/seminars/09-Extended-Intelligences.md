@@ -50,7 +50,7 @@ REFLECTIONS:
 Link to our presentation:
 [https://docs.google.com/presentation/d/1-4Eb5VKIGf3kqSfr40TxhLEWaPGLjzwR7zazM_jlasY/edit#slide=id.p](https://docs.google.com/presentation/d/1-4Eb5VKIGf3kqSfr40TxhLEWaPGLjzwR7zazM_jlasY/edit#slide=id.p0)
 
-## Electroshock Table:
+## Electroshock Table
 <img src= "../../images/electroshock.png" alt="Photo of our electroshock presentation">
 
 - Environment: Inside this classroom at this table

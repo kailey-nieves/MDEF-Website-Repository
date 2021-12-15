@@ -27,6 +27,6 @@ This were the materials used in the workshop with the teachers.
 - Syringe
 - Pot
 <img src= "../../images/workshop.png" alt="Photo of teachers doing workshop">
-Video of our intervention:
+## Video of our intervention:
 <video src= "../../images/Biothesizer_KaiAnna.mp4" width="600" height="520" controls></video>
 :')
