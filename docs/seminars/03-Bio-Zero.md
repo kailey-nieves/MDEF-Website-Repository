@@ -8,11 +8,11 @@ This week was very interesting by the way we entered different branches in gener
 
 ## iGEM Experiment
 
-Purpose:
+- Purpose:
 
 To create a bioengineer microbes on a strip where you put a drop of tattoo ink and could tell you if the ink is contaminated or if it’s ok to be used.
 
-How?
+- How?
 
 Non-selective Agar Medium strip to detect Aerobic Mesophilic Bacteria 
 
@@ -26,8 +26,10 @@ I search online about how to detect  aerobic mesophilic bacteria and got to the 
 
 ## Spirulina & Kombucha Cultivation 
 <img src= "../../images/spirulina.png" alt="Photo of bacterias">
-Growing spirulina and kombucha were the two things that most motivated and captivated me. It is not my first time working with kombucha, as I have become scoby mother. But, to return to the concept of cultivating it with others, I really liked it. Furthermore, spirulina had never grown before and neither did I know that it was used as food.
-After this, the exercise of looking for things outside to see them under a microscope was fun. I carried a dead hundred foot insect that I had killed the day before and seeing its textures and colors with a microscope was fascinating.
+Growing spirulina and kombucha were the two things that most motivated and captivated me. It is not my first time working with kombucha, as I have become scoby mother for a while now. But, to return to the concept of cultivating it with others, I really liked it. Furthermore, I had never grown Spirulina before and neither did I know that it was used as food.
+I like cultivating kombucha to create leather after its process of growing. You can do a lot of stuff with it, that its a genius organic resource. As equal as Spirulina, you can use it for food, for your health or even though for organic dyes.
+We used microspcopes to see the bacterias that we cultivated by recollecting things inside or outside Iaac. It was ver stressful to see that stuff you commonly use, are highly contaminated with bacterias.
+After this, we got assigned to look for things outside Iaac to see them under a microscope and it was very fun. I carried a dead hundred foot insect that I had killed the day before and seeing its textures and colors with a microscope was fascinating and scary at the same time.
 <img src= "../../images/cienpie.png" alt="Photo of a Cienpies">
 
 ## Science paper
