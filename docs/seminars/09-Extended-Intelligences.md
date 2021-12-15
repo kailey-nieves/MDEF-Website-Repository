@@ -41,3 +41,20 @@ REFLECTIONS:
 - This kind of generations can aid in a creative process in order to leave behind human bias, leading to a more spontaneous results.
 - The creation of new relationships between the merging or the generation of new images can challenge our understanding of our visual world and the way we perceived it through our vision, we can understand from this, that context is fundamental in the construction of our personal reality.What we think it is real, it is not, what we think it couldn't exist, it could.
 - This kind of process is a source of “Almost infinite” resources for creativity.  
+
+Link to our presentation:
+[https://docs.google.com/presentation/d/1-4Eb5VKIGf3kqSfr40TxhLEWaPGLjzwR7zazM_jlasY/edit#slide=id.p](https://docs.google.com/presentation/d/1-4Eb5VKIGf3kqSfr40TxhLEWaPGLjzwR7zazM_jlasY/edit#slide=id.p0)
+
+## Electroshock Table:
+<img src= "../../images/electroshock.png" alt="Photo of our electroshock presentation">
+
+- Environment: Inside this classroom at this table
+- Question: How to keep us awake/paying attention
+
+Often, a class the topics have a high level of comprehension for students they tend to be distracted or bored.
+
+From this issue/problem, we think it is needed a table which could be able to identify each student behaviors in order to produce an output that stimulate her/his/they attention on class.
+<img src= "../../images/useroutput.png" alt="Photo of user output">
+<img src= "../../images/output.png" alt="Photo of output">
+
+
