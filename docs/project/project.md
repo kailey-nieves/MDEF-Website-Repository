@@ -38,3 +38,6 @@ I made different samples to see how dyes, organic material and molds reacted to 
 <img src= "../../images/resultados.png" alt="Photo of biomaterial results">
 
 - 002 Biohilos
+
+As a second try of experiments, I did some Biohilos with an argentinian person called Carolina Etchevers. We used sodium alginate, calcium chloride and water to make them. It was a very interesting elaboration & would love to keep experimenting with it to see what it can be done. <3 
+<img src= "../../images/biohilos.png" alt="Photo of biomaterial results">
