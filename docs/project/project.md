@@ -1,8 +1,7 @@
 
 # 01 Design Space 
 
-<img src= "../../images/designspace.png" alt="Photo of my design space">
-
+<img src= "../../images/miroboard.png" alt="Photo of my design space">
 Materials that I have:
 <img src= "../../images/instrumentos.jpg" alt="Photo personal instruments">
 Having a conversation with one of my colleagues (Ruben), we came to the conclusion that we wanted to work with the same thing, agriculture. But what about it in particular is or was that we did not know. He told me that he wanted to make a concept map to see if he could get something from it and that idea make me to do the same exercise but at home, including my two roommates/friends. To give a bit of context, my two roommates are from Puerto Rico, just like me. In addition to that, one of them is studying Agroecology and the other, Studies of women and gender at the Faculty of Geography but with knowledge in feminist ecology, both at the University of Barcelona. Therefore, what better help than three minds and bodies that come from the same context, from a small island in the Caribbean that is still a colony of the United States and that are studying things related?
@@ -15,7 +14,7 @@ Although I think I still have things to experiments in order to have an idea of 
 
 
 
-01 Design Studio Experiment:
+## 01 Design Studio Experiment:
 
 Biomaterial puppets
 
@@ -27,13 +26,16 @@ Makinf it with Biomaterials.
 
 This is the second prototype of the head of a puppet in 3D digital modeling. The fisrt one, was in clay that dries with the air.
 <img src= "../../images/puppet.png" alt="Photo of 3D digital modeling of a puppet's head">
-02 Design Studio Experiment:
+## 02 Design Studio Experiment:
 
-Biomaterials 
+001 Biomaterials - Biopolimers 
 
 I have been taking different workshops with individuals outside Iaac, to keep investigating & experimenting alternatives materials.
+
 <img src= "../../images/biomateriales.jpg" alt="Photo of biomaterial Preparation">
 This biomaterial was made with pine resin and carnauba wax.
 I made different samples to see how dyes, organic material and molds reacted to the biomaterial. I used lavander, spirulina dye, oxide, hibiscus flower in alcohol, egg shells and many others to do different testings & this were some of the results.
 
 <img src= "../../images/resultados.png" alt="Photo of biomaterial results">
+
+002 Biohilos
