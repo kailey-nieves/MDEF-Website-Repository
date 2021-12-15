@@ -3,7 +3,7 @@
 
 ## Starter Pack Generator 
 <img src= "../../images/Starterpackgenerator.png" alt="Photo of Startes Pack Presentation">
-
+IDEA:
 - Using AI, trained with a catalog dataset, we want to generate outputs as a index of an artificial person.
 - By the analysis of the dataset we be able to generate new objects as shoes, books, coats, bags… that together set up a new superficial identity.
 
