@@ -15,9 +15,7 @@ Although I think I still have things to experiments in order to have an idea of 
 
 
 
-## 01 Design Studio Experiment:
-
-- Biomaterial puppets
+## 01 Design Studio Experiment with Biomaterial puppets:
 
 As a puppeteer, I see importance in the development of toys for children and in my personal practice, I use recycled materials, whether organic, plastics, etc. to include any type of person with or without crafting / art skills. With this, I prioritize creating them at home with the things we have, to reduce expenses and material consumption.
 
@@ -27,7 +25,7 @@ Makinf it with Biomaterials.
 
 This is the second prototype of the head of a puppet in 3D digital modeling. The fisrt one, was in clay that dries with the air.
 <img src= "../../images/puppet.png" alt="Photo of 3D digital modeling of a puppet's head">
-## 02 Design Studio Experiment:
+## 02 Workshops Experiments:
 
  - Biomaterials - Biopolimers 
 
