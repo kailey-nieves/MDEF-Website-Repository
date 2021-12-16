@@ -29,4 +29,6 @@ This were the materials used in the workshop with the teachers.
 <img src= "../../images/workshop.png" alt="Photo of teachers doing workshop">
 ## Intervention Video
 <video src= "../../images/Biothesizer_KaiAnna.mp4" width="600" height="520" controls></video>
+Link to our Miro Board Intervention:
+[https://miro.com/app/board/uXjVOf3XDVg=/](https://miro.com/app/board/uXjVOf3XDVg=/)
 :')
