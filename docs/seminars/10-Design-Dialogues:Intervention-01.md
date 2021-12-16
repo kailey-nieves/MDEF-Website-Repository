@@ -31,4 +31,10 @@ This were the materials used in the workshop with the teachers.
 <video src= "../../images/Biothesizer_KaiAnna.mp4" width="600" height="520" controls></video>
 Link to our Miro Board Intervention:
 [https://miro.com/app/board/uXjVOf3XDVg=/](https://miro.com/app/board/uXjVOf3XDVg=/)
+
+I have been questioning myself about this thing of redesigning w/ new materials. We are not using new materials to redesign, we redeiscover that existing materils can be used in design. For what use they can be? Or are we just causing more troubles in the earth?
+That's my new fight.
+<img src= "../../images/Newmaterials.jpg" alt="Photo of new fight poster">
+And to keep focus on what I want to do and for what I came here. That poaint could change whether my focus change or transform my objective. On the left, I'm far way of my focus that is the top. On the right, I'm more closer to reach it.
+<img src= "../../images/kaifight.jpg" alt="Photo of new fight poster">
 :')
