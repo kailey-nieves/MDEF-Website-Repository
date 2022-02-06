@@ -1,5 +1,5 @@
 
-# 01 Design Dialogue/Intervention
+# Design Dialogue/Intervention
 
 In the design studio we were entrusted to meet with people from our master whose interests are similar to what I would like to work on. So, we got together in a group that was called "Solar Punk". At the beginning we had the same interest of exploration, but at some point, when the design studio asked for a group intervention, we had different things in mind that each one of us wanted to do.
 <img src= "../../images/SolarPunks.png" alt="Photo of Solar PUnks Group interests">
