@@ -1,5 +1,5 @@
 # Remixing Materials .01
-*w/ Lara Campos*
+**w/ Lara Campos**
 
 As exploratory material, I have decided to opt for creating bio-threads. For two years now, I have immersed myself in the world of research into materials based on organic waste. Bio-threads as such can be created with sodium alginate and calcium chloride, together with water. Pigments or other waste can be added to help its formation. I had never tried to create bio-threads before, since last December I participated in a workshop with an Argentine researcher named Carolina Etchevers. After this workshop, my interest in continuing to explore biothreads intensified and now I would like to continue exploring them.
 <img src= "../../images/biohilos.png" alt="Photo of Bio-threads">
