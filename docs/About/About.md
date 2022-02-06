@@ -14,3 +14,5 @@ Part of my artistic proposal and of my creative processes is to substitute and c
 
 <img src= "../../images/ACAB.jpg" alt="Photo of natural embroidery">
 <img src= "../../images/Harta.jpg" alt="Photo of natural embroidery">
+
+More works that I did back in Puerto Rico, about reusing wastes as a resource of textiles. On the 'ACAB' embroidery, I used dried orange peels and in 'Harta' I used scoby.
