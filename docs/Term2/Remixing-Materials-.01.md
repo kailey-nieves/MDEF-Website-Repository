@@ -20,3 +20,9 @@ Part of how could I imagine this kind of sculptures is based on Robert Cannon's 
 But, this sculptures are very sophisticated more than what I'm looking for. Actually, I wish I could try to create earthen structures where the bio-threads could get tangled up and plants could grow. I am not looking for these sculptures to fall into the aesthetic, on the contrary, I seek to produce accessible food for everyone with them.
 We could use chicken wire or even go completely organic and use natural straws to form the structure of whatever we want our food sculpture to be. In addition to that, materials such as compost and soil, such as seeds, are necessary for this type of intervention to be carried out.
 Also, instead of creating living sculptures, living garments could be created just like Lara did. But considering that these garments, after their useful life, are completely degradable since they will be created with biothreads and seeds.
+
+Here the recipe:
+12,5 grs. alginate 
+500 ml. water
+30 ml. glycerin additives
+Calcium chloride solution: 30 grs. CaCl / 500 ml. H2O
