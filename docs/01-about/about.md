@@ -1,4 +1,4 @@
-# About
+# About Me
 
 <img src= "../../images/kai-nieves.jpg" alt="Photo of Kailey Nieves">
 
