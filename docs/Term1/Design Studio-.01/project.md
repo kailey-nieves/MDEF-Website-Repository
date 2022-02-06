@@ -1,5 +1,5 @@
 
-# 01 Design Space 
+# Design Studio.01
 
 <img src= "../../images/miroboard2.png" alt="Photo of my design space">
 
