@@ -184,7 +184,7 @@ Measuring the world / A world in data activity report.
 
 **Brainstorming**
 Multiple images about the brainstorming process:
-![](https://media.giphy.com/media/hR5hrKJ8oBmELQYJPp/giphy.gif =730x)
+![](https://media.giphy.com/media/hR5hrKJ8oBmELQYJPp/giphy.gif=730x)
 
 ![](https://i.imgur.com/WobCrxr.jpg)
 
@@ -222,7 +222,7 @@ We used the PiCamera to create timelapses in two different ways:
 
 For the camera settings, we decided to use a low resolution (320x240px) in order not to have heavy files. We also set the photo frequency to 1 picture per second to have enough information from people's movements.
 
-![](https://media.giphy.com/media/7gzVLH8E2G7c5kYBWY/giphy.gif =730x)
+![](https://media.giphy.com/media/7gzVLH8E2G7c5kYBWY/giphy.gif=730x)
 
 **Data capturing strategy:**
 
@@ -237,13 +237,13 @@ Picamera, "LunchRoom" poster, Iaac map and personal interviews to people that we
 
 **Detail setup instructions:**
 
-![](https://media.giphy.com/media/S8qC6M7fq0lmiJpHcG/giphy.gif =730x)
+![](https://media.giphy.com/media/S8qC6M7fq0lmiJpHcG/giphy.gif=730x)
 
-![](https://i.imgur.com/JsOASbS.jpg =365x)
+![](https://i.imgur.com/JsOASbS.jpg=365x)
 
 ![](https://i.imgur.com/1sAqZFU.jpg)
 
-![](https://media.giphy.com/media/pW0DfHNUFL2OjZGOU5/giphy.gif =730x)
+![](https://media.giphy.com/media/pW0DfHNUFL2OjZGOU5/giphy.gif=730x)
 
 ![](https://i.imgur.com/zSxMyNp.png)
 
@@ -260,7 +260,7 @@ For privacy reasons we are not able to show the images captured by the Raspberry
 
 "People that was interested in the Lunch room poster":
 
-![](https://media.giphy.com/media/AjsEIYMFUE2a97IuYm/giphy.gif =730x)
+![](https://media.giphy.com/media/AjsEIYMFUE2a97IuYm/giphy.gif=730x)
 Video recorded with the PiCamera
 
 ![](https://i.imgur.com/yl1W9gn.png)

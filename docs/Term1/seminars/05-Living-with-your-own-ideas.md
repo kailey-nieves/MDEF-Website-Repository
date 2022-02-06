@@ -2,21 +2,21 @@
 # Living with your own ideas
 
 A drawing of myself in 3 seconds & the meaning of my magical machine:
-<img src= "../../images/yo.png" alt="Photo of me and my reflection">
+<img src= "../../../images/yo.png" alt="Photo of me and my reflection">
 My magical machine:
-<img src= "../../images/bocetos.png" alt="Photo of my workshop craft">
+<img src= "../../../images/bocetos.png" alt="Photo of my workshop craft">
 Solar Punk Group Reflection:
 
 The interventions in the group revolve around various discourses one makes, in search for identity of oneself. There is a shared common interest in finding a balance between the internal and the external parts of life. This balance is explored by different ways of engagement tied together by a common aspect of positionality. 
 
-<img src= "../../images/grupo3.png" alt="Photo of group">
+<img src= "../../../images/grupo3.png" alt="Photo of group">
 
 ## “A day in my new life” 
 
 -A personal challenge as an extreme reflection-
 
-<img src= "../../images/memorymap1.png" alt="Photo of My Memory Map">
-<video src= "../../images/Don't get lost - Kai Nieves [new].mp4" width="520" height="440" controls></video>
+<img src= "../../../images/memorymap1.png" alt="Photo of My Memory Map">
+<video src= "../../../images/Don't get lost - Kai Nieves [new].mp4" width="520" height="440" controls></video>
 Reflection:
 
 -What did you make? And why did it matter?

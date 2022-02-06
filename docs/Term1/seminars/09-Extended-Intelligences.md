@@ -2,13 +2,13 @@
 # Extended Intelligences
 
 ## Starter Pack Generator 
-<img src= "../../images/Starterpackgenerator.png" alt="Photo of Startes Pack Presentation">
+<img src= "../../../images/Starterpackgenerator.png" alt="Photo of Startes Pack Presentation">
 IDEA:
 - Using AI, trained with a catalog dataset, we want to generate outputs as a index of an artificial person.
 - By the analysis of the dataset we be able to generate new objects as shoes, books, coats, bags… that together set up a new superficial identity.
 
 Background - inspiration:
-<img src= "../../images/Starterpack.webp" alt="Photo of Starter Pack Presentation">
+<img src= "../../../images/Starterpack.webp" alt="Photo of Starter Pack Presentation">
 
 Personality generation: Character generation for fictional characters.
 [https://www.character-generator.org.uk/personality/](https://www.character-generator.org.uk/personality/)
@@ -32,10 +32,10 @@ Collecting data:
 - Art
 
 Sample of Data Set with our shoes:
-<img src= "../../images/sample.png" alt="Photo of our shoes">
+<img src= "../../../images/sample.png" alt="Photo of our shoes">
 
 Generated Images:
-<img src= "../../images/generatedimage.png" alt="Photo of our transformed shoes">
+<img src= "../../../images/generatedimage.png" alt="Photo of our transformed shoes">
 
 REFLECTIONS:
 
@@ -51,7 +51,7 @@ Link to our Generator presentation:
 [https://docs.google.com/presentation/d/1-4Eb5VKIGf3kqSfr40TxhLEWaPGLjzwR7zazM_jlasY/edit#slide=id.p](https://docs.google.com/presentation/d/1-4Eb5VKIGf3kqSfr40TxhLEWaPGLjzwR7zazM_jlasY/edit#slide=id.p0)
 
 ## Electroshock Table
-<img src= "../../images/electroshock.png" alt="Photo of our electroshock presentation">
+<img src= "../../../images/electroshock.png" alt="Photo of our electroshock presentation">
 
 - Environment: Inside this classroom at this table
 - Question: How to keep us awake/paying attention
@@ -59,8 +59,8 @@ Link to our Generator presentation:
 Often, a class the topics have a high level of comprehension for students they tend to be distracted or bored.
 
 From this issue/problem, we think it is needed a table which could be able to identify each student behaviors in order to produce an output that stimulate her/his/they attention on class.
-<img src= "../../images/useroutput.png" alt="Photo of user output">
-<img src= "../../images/output.png" alt="Photo of output">
+<img src= "../../../images/useroutput.png" alt="Photo of user output">
+<img src= "../../../images/output.png" alt="Photo of output">
 
 Link to our Electroshock Table presentation:
 [https://docs.google.com/presentation/d/1YzZN2AbXcgSpEURAQjZyXFuVauDLE0HgrQWbjQQKzRk/edit#slide=id.p](https://docs.google.com/presentation/d/1YzZN2AbXcgSpEURAQjZyXFuVauDLE0HgrQWbjQQKzRk/edit#slide=id.p)
