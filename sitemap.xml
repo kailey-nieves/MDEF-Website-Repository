@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://fablabbcn.github.io/mdef-template/01-about/about/</loc>
+         <lastmod>2022-02-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://fablabbcn.github.io/mdef-template/Fab-Academy/Week-Four/</loc>
          <lastmod>2022-02-06</lastmod>
          <changefreq>daily</changefreq>
@@ -82,11 +87,6 @@
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/Term2/02-Design-Studio/</loc>
-         <lastmod>2022-02-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://fablabbcn.github.io/mdef-template/about/about/</loc>
          <lastmod>2022-02-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
