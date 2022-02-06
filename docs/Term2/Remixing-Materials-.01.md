@@ -24,7 +24,11 @@ We could use chicken wire or even go completely organic and use natural straws t
 Also, instead of creating living sculptures, living garments could be created just like Lara did. But considering that these garments, after their useful life, are completely degradable since they will be created with biothreads and seeds.
 
 Here the recipe:
-12,5 grs. alginate 
-500 ml. water
-30 ml. glycerin additives
-Calcium chloride solution: 30 grs. CaCl / 500 ml. H2O
+
+- 12,5 grs. alginate
+
+- 500 ml. water
+
+- 30 ml. glycerin additives
+
+- Calcium chloride solution: 30 grs. CaCl / 500 ml. H2O
