@@ -11,5 +11,7 @@ Another game board made of trash found at the streets:
 <img src= "../../images/Boceto3.jpg" alt="Photo of Drawing of board game">
 <img src= "../../images/Board.jpg" alt="Photo of Board game">
 
+Then Borka has an idea of creating a 
+<img src= "../../images/Borka" alt="Photo of Borka's idea">
 Here our first Presentation of the process of building "Wasteful Playfulness":
 [https://docs.google.com/presentation/d/1bWtHorgM7NAvP15Tmx_u32Du2owxhI0ERu7t-ZK8JNc/edit?usp=sharing](https://docs.google.com/presentation/d/1bWtHorgM7NAvP15Tmx_u32Du2owxhI0ERu7t-ZK8JNc/edit?usp=sharing)
