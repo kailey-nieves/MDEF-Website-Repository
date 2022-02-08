@@ -11,7 +11,11 @@ Another game board made of trash found at the streets:
 <img src= "../../images/Boceto3.jpg" alt="Photo of Drawing of board game">
 <img src= "../../images/Board.jpg" alt="Photo of Board game">
 
-Then Borka has an idea of creating a 
+Then Borka had an idea of creating a small bedside toy & bookholder made of a lot of vegetable boxes that she has from a shop that doesn't reuse them. So, dismantling the boxes so they can be place differently & creating laser cutted shapes using the leftover wood as shadow figures on the wall. It too can be possible, as I talked to Borka, of implementing biomaterials made from the molds of the wood that were cutted by the laser cut and create a shadow play for them.
 <img src= "../../images/Borka" alt="Photo of Borka's idea">
+<img src= "../../images/Borka1" alt="Photo of Borka's idea">
+<img src= "../../images/Borka2" alt="Photo of Borka's idea">
+<img src= "../../images/Borkas3" alt="Photo of Borka's idea">
+
 Here our first Presentation of the process of building "Wasteful Playfulness":
 [https://docs.google.com/presentation/d/1bWtHorgM7NAvP15Tmx_u32Du2owxhI0ERu7t-ZK8JNc/edit?usp=sharing](https://docs.google.com/presentation/d/1bWtHorgM7NAvP15Tmx_u32Du2owxhI0ERu7t-ZK8JNc/edit?usp=sharing)
