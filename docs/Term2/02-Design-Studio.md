@@ -7,6 +7,7 @@ At first Anna designed some toys based on the materials they found on the street
 This designs were made by Anna:
 <img src= "../../images/Trash.jpg" alt="Photo of Anna's Trash">
 <img src= "../../images/Throwit.jpg" alt="Photo of Anna's game made of trash">
+<video src= "../../../images/IMG_7717.MOV" width="520" height="440" controls></video>
 Another game board made of trash found at the streets:
 <img src= "../../images/Boceto3.jpg" alt="Photo of Drawing of board game">
 <img src= "../../images/Board.jpg" alt="Photo of Board game">
