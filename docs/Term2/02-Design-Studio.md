@@ -15,7 +15,7 @@ Then Borka had an idea of creating a small bedside toy & bookholder made of a lo
 <img src= "../../images/Borka" alt="Photo of Borka's idea">
 <img src= "../../images/Borka1" alt="Photo of Borka's idea">
 <img src= "../../images/Borka2" alt="Photo of Borka's idea">
-<img src= "../../images/Borkas3" alt="Photo of Borka's idea">
+<img src= "../../images/Borkas3.png" alt="Photo of Borka's idea">
 
 Here our first Presentation of the process of building "Wasteful Playfulness":
 [https://docs.google.com/presentation/d/1bWtHorgM7NAvP15Tmx_u32Du2owxhI0ERu7t-ZK8JNc/edit?usp=sharing](https://docs.google.com/presentation/d/1bWtHorgM7NAvP15Tmx_u32Du2owxhI0ERu7t-ZK8JNc/edit?usp=sharing)
