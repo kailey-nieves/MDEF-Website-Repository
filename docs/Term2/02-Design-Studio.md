@@ -1,5 +1,7 @@
 # Design Studio .02
 
+## Wasteful Playfulness w/ Anna Mestres, Borka Moravcsik & Georges Hanna
+
 This trimester I decided to keep exploring on doing toys made out of biomaterials, trash and other materials for the next intervention. But this time, instead of just only Anna & me, Borka & George joined us to build and work different ideas of building toys with this materials & applying tech to it.
 
 At first George & Anna designed some toys based on the materials George found on the streets in Pobleonu last thursday february 3 2022 and ones that she brought from her home. This was because some of us in the master, had this thing in mind on rescuing things that people throw out on particular days in Barcelona & use them as materials for building stuff such as furniture, toys, planters, etc.
@@ -20,3 +22,8 @@ Then Borka had an idea of creating a small bedside toy & bookholder made of a lo
 
 Here our first Presentation of the process of building "Wasteful Playfulness":
 [https://docs.google.com/presentation/d/1bWtHorgM7NAvP15Tmx_u32Du2owxhI0ERu7t-ZK8JNc/edit?usp=sharing](https://docs.google.com/presentation/d/1bWtHorgM7NAvP15Tmx_u32Du2owxhI0ERu7t-ZK8JNc/edit?usp=sharing)
+
+## Living Sculpture w/ Ruben De Haan
+
+I too decided to do a second intervention related to urban agriculture, going a little bit outside of what I'm doing w/ the toys. So, I had an idea based on a workshop that I saw of creating living sculptures with soil & compost. The workshop had this idea of just planting wildflowers seed, so decided to turn it around a little bit and put this living sculptures seeds that can grow food. 
+I told Ruben my idea of intervention and he was so motivated that joined me to make this happen. But we talked about putting this living sculptures some biomaterials around it and that could be the source of production.
