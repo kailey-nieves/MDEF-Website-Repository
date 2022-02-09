@@ -1,8 +1,6 @@
 # Week .02
-**February 9 &**
+**February 2**
+## Blender Model(s)
+The second lab challenge was to do a model in blender. As I wrote in week 1, I had made a model for last trimester in order to do a negative puppet head and pour biomaterials recepies to create degredables toys. So my first try of using this kind of softwares for sculpting was figure 3. Figure 4 is the final model of the puppet head that I did on Nomad.
+<img src= "../../images/Blender.jpg" alt="Photo of Inés & Morgane's Websites">
 
-This week they showed us the history of the Laser & vinyl cutter and how does they work. the different types of materials that can be cutted in the laser, such as wook, vinyl, cardboard, non-toxic leather, etc. It's power, speed & frequency.
-Meaning tthat if you adjust the following parameters, it will determine the depth to which the laser will cut:
-Power: the percentage of power used by the laser.
-Speed: the speed at which the laser carriage moves throught its job.
-PPI (Frequency): The firing rate of the laser as it moves (pulse per inch).
