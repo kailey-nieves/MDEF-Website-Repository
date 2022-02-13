@@ -21,4 +21,3 @@ like a box or something & use the laser cutter for it.
 For this task I decided to make it easier for me because I don't know how to use any 3D softwares. I used Fusion 360 because Rhino is not a free software and it's not cheap either (haha). So, first I did the 2D design in Illustrator to make it easier for me and then coverted that document in dxf and and I opened it in fusion. Made a human carrusel. <3
 <img src= "../../images/monoscarrusel.jpg" alt="Photo of Carrusel design">
 <img src= "../../images/monos.png" alt="Photo of Carrusel design">
-<img src= "../../images/monos2.png" alt="Photo of Carrusel design">
