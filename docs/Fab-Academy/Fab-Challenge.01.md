@@ -221,10 +221,10 @@ The designs of the drawings for the stamps, were made by hand by George. We took
 ### BOM (bill of materials)
 
 *Silicone
-*Mdf - Wood
-*Cardboard
-*Biomaterials: Agar Agar, Vinegar, annatto, water
-*Agar Agar & sopa biomaterial (made by fab lab)
+*Mdf - Wood* 
+*Cardboard*
+*Biomaterials: Agar Agar, Vinegar, annatto, water*
+*Agar Agar & sopa biomaterial (made by fab lab)*
 
 
 ### Problems
