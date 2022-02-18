@@ -13,7 +13,7 @@ The point was to test out different cutting and mold makingmaking techniques to 
 We are already executing our interventions together, and we are working in the areas of creative uses of waste, specifically in children’s toys and child play. We are currently working on building several toys made completely from waste and biodegradable materials in order to proceed with our interventions.
 
 
-## URPOSE
+## PURPOSE
 
 Our artifact is a collection of stamps with exchangeable handles that kids can use to make drawings our map out graphics. We went for a simple object and decided not to reinvent the wheel, but rather, question the way it’s made and challenge it.
 
@@ -37,17 +37,17 @@ Here is a diagram to explain the main components that make up the stamps.
 
 The design process was focused on 3 main components:
 
-## _1. Stamp drawing:_
+## _1. Stamp drawing_
 
 <img src= "../../images/sketches.png" alt="Photo of the sketches of our project">
 
 We drew the stamp as sketches in a notebook and later selected 7 designs. We then scanned and traced the designs on illustrator as vector drawings.
 
-## _2. Handle design:_
+## _2. Handle design_
 
 Same process as above, but a different design.
 
-## _3. Stamp Base:_
+## _3. Stamp Base_
 
 We had to think of the main shape of the stamp and the size of it, we also had to think of the way the different handles we designed can be replaced with each other by being attachable and removable from the stamp base.
 
@@ -59,19 +59,19 @@ We mainly focused on the laser cut machine for this exercise, and how we can cre
 
 ## MATERIAL SOLUTIONS
 
-## FOR THE STAMP
+_FOR THE STAMP_
 
 Our main goal was to make the stamp part out of biomaterials (Agar and vinegar based, so we followed two different approaches and we present both results.
 
   (1) The first process consists of using mdf to make our desired shape, then use silicone to create a mold, which we would later pour into the biomaterials and create our stamps.
 
-  (2) The other process required making a flat sheet of biomaterials and then inserting it in the laser to directly cut our shapes and glue them together. We had interesting results.  
+  (2) The other process required making a flat sheet of biomaterials and then inserting it in the laser to directly cut our shapes and glue them together. We had interesting results.
 
-  ![](prebio.png)
+  <img src= "../../images/petribio.jpg" alt="Photo of the prebio">
 
   However, before the silicone we tried to use clay as our mold, in order to be as eco friendly as possible, however, when inserting the biomaterials, it mixed with the mold as the air dry clay is water soluble, and the biomaterials contained water.
 
-## FOR THE STAMP BASE AND HANDLE
+_FOR THE STAMP BASE AND HANDLE_
 
 We had to collect and find plastics that are from the same composition. Then, we had to shred the plastic with the shredder into little pieces, and then melt them in an oven on a horizontal stable sheet and wait for it the sheet to dry.
 
@@ -104,7 +104,7 @@ Feroca, Silicona de platino (easy plat) we used to do the molds in silicone.
 - Molds of the shapes/bases:
 In the laser cutter machine, we ‘cut’ the shapes of the drawings of our stamps apart form the rectangle bases and after they were cutted, we glue them together.
 
-*1_ Without the rectangle base in silicone:*
+_1. Without the rectangle base in silicone:_
 
 - We used the wood stamps w/ an ice cube plastic tray to do a silicone mold.
 
@@ -128,7 +128,7 @@ In the laser cutter machine, we ‘cut’ the shapes of the drawings of our stam
 <img src= "../../images/2mold.png" alt="Photo of second mold">
 
 
-*2_ With the rectangle base in silicone:*
+_2. With the rectangle base in silicone:*_
 
 - We used some square molds made of wood that Lara had left us when we did the remixing materials workshop, covered them up with plastic and tape so that the material we wanted to pour on them did not leak out of the mold.
 
@@ -140,7 +140,7 @@ In the laser cutter machine, we ‘cut’ the shapes of the drawings of our stam
 
 - By putting the wooden stamp on the wooden mold, it created a type of "staircase" in which the silicone mixture was covering each step because it was on a flat surface. That is why the mold was created rectangular with embossing on the drawing shape part.
 
-*3_ With the rectangle base in air-dry clay:*
+_3. With the rectangle base in air-dry clay:_
 
 - We used the wooden stamps that we laser cutted and we made an impression, compacting the stamp on the piece of clay.
 
