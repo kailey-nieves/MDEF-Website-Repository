@@ -1,4 +1,4 @@
-# Challenge - BIOSTAMPS
+# W. 04 / Challenge-BIOSTAMPS
 
 <img src= "../../images/Title.png" alt="Photo of our project title">
 
