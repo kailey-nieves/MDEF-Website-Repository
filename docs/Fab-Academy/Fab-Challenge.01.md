@@ -1,7 +1,7 @@
 # Fab Challenge.01
 # BIOSTAMPS
 
-![](Title.png)
+<img src= "../../challlengeimages/Title.png" alt="Photo of our project title">
 
 ### IDEATION
 
@@ -9,7 +9,7 @@
 
 The point was to test out different cutting and mold making making techniques to realize the best results in terms of making successful stamps.  
 
-![](p1.png)
+<img src= "../../challlengeimages/p1.png" alt="Photo of our ideation">
 
 We are already executing our interventions together, and we are working in the areas of creative uses of waste, specifically in children’s toys and child play. We are currently working on building several toys made completely from waste and biodegradable materials in order to proceed with our interventions.
 
@@ -18,13 +18,13 @@ We are already executing our interventions together, and we are working in the a
 
  Our artifact is a collection of stamps with exchangeable handles that kids can use to make drawings our map out graphics. We went for a simple object and decided not to reinvent the wheel, but rather, question the way it’s made and challenge it.
 
-![](goal.png)
+<img src= "../../challlengeimages/goal.png" alt="Photo of our ideation">
 
 ### PLANNING AND EXECUTION
 
 As we are already have common values and aligned interests, it was easy for us to pick something and go with it. We then proceeded in writing down all the steps required to reach our final result. You can find the list below, and a thorough breakdown of the instructions to replicate the stamps.
 
-![](planning.png)
+<img src= "../../challlengeimages/planning.png" alt="Photo of our planning">
 
 Overall, we had 4 main aspects to deal with: (1) design, (2) materials, (3) packaging, (4) finalizing + execution.
 
@@ -32,7 +32,7 @@ Overall, we had 4 main aspects to deal with: (1) design, (2) materials, (3) pack
 
 Here is a diagram to explain the main components that make up the stamps.
 
-![](Diagram01.png)
+<img src= "../../challlengeimages/Diagram01.png" alt="Photo of our diagram">
 
 ### DESIGN PROCESS
 
@@ -40,7 +40,7 @@ The design process was focused on 3 main components:
 
 #### _1. Stamp drawing:_
 
-![](sketches.png)
+<img src= "../../challlengeimages/sketches.png" alt="Photo of the sketches of our project">
 
 We drew the stamp as sketches in a notebook and later selected 7 designs. We then scanned and traced the designs on illustrator as vector drawings.
 
@@ -54,7 +54,7 @@ We had to think of the main shape of the stamp and the size of it, we also had t
 
 ## HONEST DESIGN
 
-![](lasercut.png)
+<img src= "../../challlengeimages/lasercut.png" alt="Photo of the sketches being cutted">
 
 We mainly focused on the laser cut machine for this exercise, and how we can create molds (whether negative or positive) from different materials through the laser cutting technique. We had also employed the press to produce melted plastic sheets for the stamp base and the handles.
 
@@ -125,8 +125,8 @@ In the laser cutter machine, we ‘cut’ the shapes of the drawings of our stam
 
 * And finally, we took the mold that we did in silicone, out of the ice cube tray.
 
-![](1mold.jpg)
-![](2mold.png)
+<img src= "../../challlengeimages/1mold.jpg" alt="Photo of first mold">
+<img src= "../../challlengeimages/2mold.png" alt="Photo of second mold">
 
 
 #### 2_ With the rectangle base in silicone:
@@ -147,9 +147,9 @@ In the laser cutter machine, we ‘cut’ the shapes of the drawings of our stam
 
 - We let it dry for a couple of hours.
 
-![](3mold.png)
-![](4mold.png)
-![](5mold.jpg)
+<img src= "../../challlengeimages/3mold.png" alt="Photo of third mold">
+<img src= "../../challlengeimages/4mold.png" alt="Photo of fourth mold">
+<img src= "../../challlengeimages/5mold.jpg" alt="Photo of fifth mold">
 
 ### Biomaterial Recipe:
 
@@ -158,7 +158,7 @@ In the laser cutter machine, we ‘cut’ the shapes of the drawings of our stam
 - 2ml. - Vinegar
 - 2grs. - Glicerine
 
-![](6biomaterial.png)
+<img src= "../../challlengeimages/6biomaterial.png" alt="Photo of biomaterial cooking">
 
 ### Shapes in Biomaterial:
 
@@ -167,27 +167,27 @@ Using the mold that we did in clay, it formed the shape with the drawing united 
 
 After it, we tried to take the material out of the clay mold but it did not work. We assumed that is because the clay absorbs water and it was like it didn’t dry completely; even though that we let them there for two more hours and it was the same when we tried to took them out.
 
-![](7biomaterial.jpg)
+<img src= "../../challlengeimages/7biomaterial.jpg" alt="Photo of made biomaterials">
 
 #### Alternative 02:
 When we cutted the drawing shapes, we did a rectangle around them in order to take that negative piece out of the rest of the scraps & reuse it as a mold to pour biomaterials.
 
 We placed the negative wood piece of the shapes on top of wax paper and cover each of the sides with tape so that the material does not leak into the table that we used as support.
 
-![](8biomaterial.png)
+<img src= "../../challlengeimages/8biomaterial.png" alt="Photo of stamps in biomaterial">
 
 After organizing our space, we cooked the biomaterial specified before & pouring it in our mold.
 Waited a few minutes until the biomaterial of Agar Agar was dry enough to remove from the wood mold.
 Took the material out w/ a fine ceramic utensil passing it around the edges so as not to break the material.
 
-![](2.2mold.png)
+<img src= "../../challlengeimages/2.2mold.png" alt="Photo of flower biomaterials">
 
 #### Alternative 03:
 Using the mold of the ice cubes shapes that we did in silicone and w/ the same recipe of biomaterial we pour the mix on each one of the silicone ice cube.
 
 We let them dry for 5 minutes and took them out of the mold, having the just the shape as result.
 
-![](9biomaterials.png)
+<img src= "../../challlengeimages/9biomaterials.png" alt="Photo of biomaterials">
 
 #### Alternative 04:
 Using the mold that we did in the square wood mold of Lara’s workshop, we pour the biomaterial recipe wrote before & let the material dry for 5 minutes resulting in the shape of the engraved drawing united with the base in the form of a rectangle.
@@ -195,8 +195,8 @@ Using the mold that we did in the square wood mold of Lara’s workshop, we pour
 #### Alternative 05:
 We used dried biomaterials made from agar agar in the fab lab before and pu ti in the machine to see if it worked working the design of our stamps. We cut them separately and then glue them together in order to have the drawing of the stamp and the base.
 
-![](10prebiomaterial.jpg)
-![](10prebio.jpg)
+<img src= "../../challlengeimages/10prebiomaterial.jpg" alt="Photo of cutted agar agar biomaterials">
+<img src= "../../challlengeimages/10prebio.jpg" alt="Photo of pre biomaterial">
 
 ### Files
 
@@ -208,13 +208,13 @@ The design of the persons as an object that is used to hold the base of the stam
 
 Particularly they did the design for a Fab Academy course assignment that involved making a parametric design and Kai decided to make a carousel of people. We took the design with a view to reusing materials that we had on hand, and also because it is child friendly and cute.
 
-![](design.jpg)
+<img src= "../../challlengeimages/design.jpg" alt="Photo of the design">
 
 As we intended to reuse materials in the classroom or Iaac, in the last workshop of Remixing materials, different groups made a research of wastes and created biomaterials based on what they researched. Dídac, Anna & Jeremy did research of the wastes that Iaac 3D printers were having and created sheets of melted plastics. We talked with them to see if they were going to use the sheets to do something and they told us that not all of them.
 
 So we send the person’s file that Kai created on illustrator and George adjusted the measurements and created the bases to fit them to Dídac and he helped us on laser cutting them.
 
-![](unknown.jpg)
+<img src= "../../challlengeimages/unknown.jpg" alt="Photo of the mini persons in bioplastic">
 
 The designs of the drawings for the stamps, were made by hand by George. We took a picture of them downloaded and edited them on illustrator; we laser cut them in various materials such as agar agar and soap biomaterial sample made by Fab Lab, wood, and we did them too in biomaterials made by us from agar agar wit and without annato.
 
@@ -238,6 +238,6 @@ Anticipating the possible problems that this could cause us, we decided differen
 
 ### Final Product
 
-![](13boxopen.jpg)
-![](14boxopen.jpg)
-![](12final.png)
+<img src= "../../challlengeimages/13boxopen.jpg" alt="Photo of final product box open">
+<img src= "../../challlengeimages/14boxopen.jpg" alt="Photo of product box open">
+<img src= "../../challlengeimages/12final.png" alt="Photo of product">
