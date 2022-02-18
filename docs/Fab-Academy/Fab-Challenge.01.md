@@ -1,5 +1,4 @@
-# Fab Challenge.01
-## BIOSTAMPS
+# BIOSTAMPS
 
 <img src= "../../images/Title.png" alt="Photo of our project title">
 
@@ -14,13 +13,13 @@ The point was to test out different cutting and mold makingmaking techniques to 
 We are already executing our interventions together, and we are working in the areas of creative uses of waste, specifically in children’s toys and child play. We are currently working on building several toys made completely from waste and biodegradable materials in order to proceed with our interventions.
 
 
-### PURPOSE
+## URPOSE
 
 Our artifact is a collection of stamps with exchangeable handles that kids can use to make drawings our map out graphics. We went for a simple object and decided not to reinvent the wheel, but rather, question the way it’s made and challenge it.
 
 <img src= "../../images/goal.png" alt="Photo of our ideation">
 
-### PLANNING AND EXECUTION
+## PLANNING AND EXECUTION
 
 As we are already have common values and aligned interests, it was easy for us to pick something and go with it. We then proceeded in writing down all the steps required to reach our final result. You can find the list below, and a thorough breakdown of the instructions to replicate the stamps.
 
@@ -28,27 +27,27 @@ As we are already have common values and aligned interests, it was easy for us t
 
 Overall, we had 4 main aspects to deal with: (1) design, (2) materials, (3) packaging, (4) finalizing + execution.
 
-### DIAGRAM
+## DIAGRAM
 
 Here is a diagram to explain the main components that make up the stamps.
 
 <img src= "../../images/Diagram01.png" alt="Photo of our diagram">
 
-### DESIGN PROCESS
+## DESIGN PROCESS
 
 The design process was focused on 3 main components:
 
-#### _1. Stamp drawing:_
+## _1. Stamp drawing:_
 
 <img src= "../../images/sketches.png" alt="Photo of the sketches of our project">
 
 We drew the stamp as sketches in a notebook and later selected 7 designs. We then scanned and traced the designs on illustrator as vector drawings.
 
-#### _2. Handle design:_
+## _2. Handle design:_
 
 Same process as above, but a different design.
 
-#### _3. Stamp Base:_
+## _3. Stamp Base:_
 
 We had to think of the main shape of the stamp and the size of it, we also had to think of the way the different handles we designed can be replaced with each other by being attachable and removable from the stamp base.
 
@@ -60,7 +59,7 @@ We mainly focused on the laser cut machine for this exercise, and how we can cre
 
 ## MATERIAL SOLUTIONS
 
-### FOR THE STAMP
+## FOR THE STAMP
 
 Our main goal was to make the stamp part out of biomaterials (Agar and vinegar based, so we followed two different approaches and we present both results.
 
@@ -72,7 +71,7 @@ Our main goal was to make the stamp part out of biomaterials (Agar and vinegar b
 
   However, before the silicone we tried to use clay as our mold, in order to be as eco friendly as possible, however, when inserting the biomaterials, it mixed with the mold as the air dry clay is water soluble, and the biomaterials contained water.
 
-### FOR THE STAMP BASE AND HANDLE
+## FOR THE STAMP BASE AND HANDLE
 
 We had to collect and find plastics that are from the same composition. Then, we had to shred the plastic with the shredder into little pieces, and then melt them in an oven on a horizontal stable sheet and wait for it the sheet to dry.
 
@@ -96,16 +95,16 @@ _level of clarity and detail of the documentation material (photos, video , text
 
 ## FABRICATION AND MATERIALS
 
-### Materials:
+## Materials:
 
 Feroca, Silicona de platino (easy plat) we used to do the molds in silicone.
 
-### Mold Method:
+## Mold Method:
 
 - Molds of the shapes/bases:
 In the laser cutter machine, we ‘cut’ the shapes of the drawings of our stamps apart form the rectangle bases and after they were cutted, we glue them together.
 
-#### 1_ Without the rectangle base in silicone:
+*1_ Without the rectangle base in silicone:*
 
 - We used the wood stamps w/ an ice cube plastic tray to do a silicone mold.
 
@@ -129,7 +128,7 @@ In the laser cutter machine, we ‘cut’ the shapes of the drawings of our stam
 <img src= "../../images/2mold.png" alt="Photo of second mold">
 
 
-#### 2_ With the rectangle base in silicone:
+*2_ With the rectangle base in silicone:*
 
 - We used some square molds made of wood that Lara had left us when we did the remixing materials workshop, covered them up with plastic and tape so that the material we wanted to pour on them did not leak out of the mold.
 
@@ -141,7 +140,7 @@ In the laser cutter machine, we ‘cut’ the shapes of the drawings of our stam
 
 - By putting the wooden stamp on the wooden mold, it created a type of "staircase" in which the silicone mixture was covering each step because it was on a flat surface. That is why the mold was created rectangular with embossing on the drawing shape part.
 
-#### 3_ With the rectangle base in air-dry clay:
+*3_ With the rectangle base in air-dry clay:*
 
 - We used the wooden stamps that we laser cutted and we made an impression, compacting the stamp on the piece of clay.
 
@@ -151,7 +150,7 @@ In the laser cutter machine, we ‘cut’ the shapes of the drawings of our stam
 <img src= "../../images/4mold.png" alt="Photo of fourth mold">
 <img src= "../../images/5mold.jpg" alt="Photo of fifth mold">
 
-### Biomaterial Recipe:
+## Biomaterial Recipe:
 
 - 200ml. - Water - We used as an additive for the pigmentation of the material, seeds of annatto (boiled in water and a drop of oil, before).
 - 10grs. - Agar Agar
@@ -160,16 +159,16 @@ In the laser cutter machine, we ‘cut’ the shapes of the drawings of our stam
 
 <img src= "../../images/6biomaterial.png" alt="Photo of biomaterial cooking">
 
-### Shapes in Biomaterial:
+## Shapes in Biomaterial:
 
-#### Alternative 01:
+*Alternative 01:*
 Using the mold that we did in clay, it formed the shape with the drawing united with the base. We pour the biomaterial in it and let it dry for a couple of minutes.
 
 After it, we tried to take the material out of the clay mold but it did not work. We assumed that is because the clay absorbs water and it was like it didn’t dry completely; even though that we let them there for two more hours and it was the same when we tried to took them out.
 
 <img src= "../../images/7biomaterial.jpg" alt="Photo of made biomaterials">
 
-#### Alternative 02:
+*Alternative 02:*
 When we cutted the drawing shapes, we did a rectangle around them in order to take that negative piece out of the rest of the scraps & reuse it as a mold to pour biomaterials.
 
 We placed the negative wood piece of the shapes on top of wax paper and cover each of the sides with tape so that the material does not leak into the table that we used as support.
@@ -182,27 +181,27 @@ Took the material out w/ a fine ceramic utensil passing it around the edges so a
 
 <img src= "../../images/2.2mold.png" alt="Photo of flower biomaterials">
 
-#### Alternative 03:
+*Alternative 03:*
 Using the mold of the ice cubes shapes that we did in silicone and w/ the same recipe of biomaterial we pour the mix on each one of the silicone ice cube.
 
 We let them dry for 5 minutes and took them out of the mold, having the just the shape as result.
 
 <img src= "../../images/9biomaterials.png" alt="Photo of biomaterials">
 
-#### Alternative 04:
+*Alternative 04:*
 Using the mold that we did in the square wood mold of Lara’s workshop, we pour the biomaterial recipe wrote before & let the material dry for 5 minutes resulting in the shape of the engraved drawing united with the base in the form of a rectangle.
 
-#### Alternative 05:
+*Alternative 05:*
 We used dried biomaterials made from agar agar in the fab lab before and pu ti in the machine to see if it worked working the design of our stamps. We cut them separately and then glue them together in order to have the drawing of the stamp and the base.
 
 <img src= "../../images/10prebiomaterial.jpg" alt="Photo of cutted agar agar biomaterials">
 <img src= "../../images/10prebio.jpg" alt="Photo of pre biomaterial">
 
-### Files
+## Files
 
 [ADD LINK] design and fabrication files (open source or open format)
 
-### Designs
+## Designs
 
 The design of the persons as an object that is used to hold the base of the stamp and to put the fingers in order for it to press and stamp, was made by Kai.
 
@@ -218,16 +217,16 @@ So we send the person’s file that Kai created on illustrator and George adjust
 
 The designs of the drawings for the stamps, were made by hand by George. We took a picture of them downloaded and edited them on illustrator; we laser cut them in various materials such as agar agar and soap biomaterial sample made by Fab Lab, wood, and we did them too in biomaterials made by us from agar agar wit and without annato.
 
-### BOM (bill of materials)
+## BOM (bill of materials)
 
-*Silicone
+*Silicone*
 *Mdf - Wood* 
 *Cardboard*
 *Biomaterials: Agar Agar, Vinegar, annatto, water*
 *Agar Agar & sopa biomaterial (made by fab lab)*
 
 
-### Problems
+## Problems
 
 * We did our first mold he mold in clay, it formed the shape with the drawing united with the base. We pour the biomaterial in it and let it dry for a couple of minutes.
 After it, we tried to take the material out of the clay mold but it did not work. We assumed that is because the clay absorbs water and it was like it didn’t dry completely; even though that we let them there for two more hours and it was the same when we tried to took them out.
@@ -236,7 +235,7 @@ Anticipating the possible problems that this could cause us, we decided differen
 
 * We cutted samples of agar agar biomaterial made in fab lab in the laser cut but some of them did not cut well or melted too much. So, we think that we need to test more samples of biomaterials in different properties on the laser cut that can lead us to a better cut of the material without it melting so much and cutting well. It helped us a lot, that we cutted three sheet of agar agar from fab lab and that we had a lot of biomaterial made out of different molds so as not to fall short.
 
-### Final Product
+## Final Product
 
 <img src= "../../images/13boxopen.jpg" alt="Photo of final product box open">
 <img src= "../../images/14boxopen.jpg" alt="Photo of product box open">

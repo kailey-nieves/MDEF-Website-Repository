@@ -1,4 +1,4 @@
-## Bio-Stamps
+# Bio-Stamps
 <img src= "../../images/visual 2.png" alt="Photo of our project">
 <img src= "../../images/visual 1.png" alt="Photo of our project">
 
