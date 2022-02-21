@@ -1,4 +1,4 @@
-# Remixing Materials .01
+# Remixing Materials
 ## W/ Lara Campos
 
 This week we started a biomaterial workshop w/ Lara Campos. Lara has worked before in Remixing Material together w/ Fabriacademy BCN. 
