@@ -21,7 +21,7 @@ I search online about how to detect  aerobic mesophilic bacteria and got to the 
 <img src= "../../../images/bacterias.jpg" alt="Photo of bacterias around Iaac">
 
 “The most common growth media nutrient broths (liquid nutrient medium) or LB medium (Lysogeny Broth) are liquid. These are often mixed with agar and poured into Petri dishes to solidify. These agar plates provide a solid medium on which microbes may be cultured. They remain solid, as very few bacteria are able to decompose agar. Many microbes can also be grown in liquid cultures comprised of liquid nutrient media without agar”.
-<img src= "../../../images/sembra-en-estria.svg" alt="Photo of petri dishes">
+<img src= "../../../images/Sembra_en_estria.svg.png" alt="Photo of petri dishes">
 
 
 ## Spirulina & Kombucha Cultivation 
