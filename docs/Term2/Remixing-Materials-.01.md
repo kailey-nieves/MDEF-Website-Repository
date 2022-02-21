@@ -2,7 +2,7 @@
 ## W/ Lara Campos
 
 As exploratory material, I have decided to opt for creating bio-threads. For two years now, I have immersed myself in the world of research into materials based on organic waste. Bio-threads as such can be created with sodium alginate and calcium chloride, together with water. Pigments or other waste can be added to help its formation. I had never tried to create bio-threads before, since last December I participated in a workshop with an Argentine researcher named Carolina Etchevers. After this workshop, my interest in continuing to explore biothreads intensified and now I would like to continue exploring them.
-<img src= "../../images/biohilos.png" alt="Photo of Bio-threads">
+<img src= "../../images/biothreads copy.jpg" alt="Photo of Bio-threads">
 Lara has a project called 'Be Grounded' that she did for Fabriacademy in 2019 where she knitted seeds into yarn filaments. That made me wonder if it would be possible to create natural-based threads that could grow food plants to be able to create street sculptures and occupy public spaces to be able to cultivate. Below, my first try of making bio-threads.
 
 Here some of Lara's work:
@@ -38,8 +38,11 @@ Here the recipe:
 Laura Freixas gave us her workshop dedicated to data collection regarding the materials/waste that we were going to create. Know its origin, its usefulness, the reason for its waste, its properties, the application that we would give it and the recipes that we made
 It also introduced us to look for waste near our Iaac community, such as restaurants, bakeries, workshops, among many others that daily discard material.
 We did our reserch w/ some documents Laura shared to us, for it to be more fast and have in mind the data that we recollected.
-<img src= "../../images/2_MaterialSWOTAnalysis 2.pdf" alt="Photo of documents">
-Ruben & I joined for this workshop, because we have an intervention to create living sculptures that produce food. 
+<img src= "../../images/Remixing1.jpg" alt="Photo of documents">
+<img src= "../../images/Remixin2.jpg" alt="Photo of documents">
+<img src= "../../images/Remixin3.jpg" alt="Photo of documents">
+<img src= "../../images/Remixing4.jpg" alt="Photo of documents">
+This research is based in Ruben's & I, as we joined for this workshop because we have an idea for intervention to create living sculptures that produce food. 
 <img src= "../../images/remiiix.jpg" alt="Photo of our idea of the sculptures">
 <img src= "../../images/REMix copy.jpg" alt="Photo of ideas">
 We digressed a bit in terms of creating materials themselves, to experiment with whether food can be germinated in biomaterials.
