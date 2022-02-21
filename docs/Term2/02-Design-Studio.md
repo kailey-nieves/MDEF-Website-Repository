@@ -1,5 +1,7 @@
 # Design Studio .02
 
+<img src= "../../images/INSpo.pdf" alt="Photo of kai">
+
 ## Wasteful Playfulness 
 w/ Anna Mestres, Borka Moravcsik & Georges Hanna
 
@@ -34,9 +36,5 @@ Ruben made a plan to experiment w/ putting seeds on biomaterials.
 <img src= "../../images/remix6.jpg" alt="Photo of Ruben's idea">
 <img src= "../../images/remix.jpg" alt="Photo of Ruben's plan">
 
-We tried different methods to see if it works in biomaterials 
-<img src= "../../images/muestras.jpg" alt="Photo of Samples">
-<img src= "../../images/muestras2.jpg" alt="Photo of Samples">
-<img src= "../../images/muestras3.jpg" alt="Photo of Samples">
-And we tried by creating things without biomaterials, just creating the sculptures w/ soil & compost and the seed inside.
+We tried by creating things without biomaterials, just creating the sculptures w/ soil & compost and the seed inside.
 <img src= "../../images/sculptures.jpg" alt="Photo of Green sculptures">
