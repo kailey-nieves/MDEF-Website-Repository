@@ -36,3 +36,8 @@ Here the recipe:
 ## W/ Laura Freixas
 
 <img src= "../../images/biothreads.jpg" alt="Photo of idea of bio-threads">
+
+documento sobre las propiedades de la muestra de material -técnicas, funcionales y emocionales- (si no asistió a la 1ª sesión, hágalo con 2 materiales que encuentre a su alrededor.
+- documento sobre diseñadores de materiales, fundamentos de biomateriales, manipulación de desechos de alimentos (conectar, recolectar, secar), exploración de materiales en clase (recetas y metodologías) y proceso de secado
+- documentación de su propia exploración de una receta y desarrollo posterior (modificar aditivo, cantidades, metodología)
+- analice las propiedades de sus exploraciones (técnicas, funcionales y emocionales) y piense en posibles aplicaciones
