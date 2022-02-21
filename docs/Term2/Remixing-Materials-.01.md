@@ -51,11 +51,17 @@ After it we decided to experiment with spreading water on the material seed, bio
 <img src= "../../images/remix.jpg" alt="Photo of idea of experiment B & C">
 
 We used as recipe for our samples:
+
 - Agar agar: 10 grs.
+
 - Water: 200 ml.
+
 - Glicerine: 2 ml.
+
 - Vinegar: 2 grs.
+
 - Soil: 10 grs. (varies)
+
 <img src= "../../images/moldss.jpg" alt="Photo of samples">
 We did a bigger scale of our experiment and got out of the petri dishes to see if seeds grow on sculpture made out of soil (shown below). 
 <img src= "../../images/sculptures.jpg" alt="Photo of idea of green sculptures experimentation">
