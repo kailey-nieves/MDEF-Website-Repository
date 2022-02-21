@@ -56,14 +56,13 @@ We used as recipe for our samples:
 - Glicerine: 2 ml.
 - Vinegar: 2 grs.
 - Soil: 10 grs. (varies)
-<img src= "../../images/biosamples2.jpg" alt="Photo of idea of samples">
-<img src= "../../images/biosamples3.jpg" alt="Photo of idea of experiment B & C">
+<img src= "../../images/moldss.jpg" alt="Photo of samples">
 We did a bigger scale of our experiment and got out of the petri dishes to see if seeds grow on sculpture made out of soil (shown below). 
 <img src= "../../images/sculptures.jpg" alt="Photo of idea of green sculptures experimentation">
 
 After a week and three days of watching if there would be any progress on germintation, we realized that the temperature in which the samples are, is not favorable for the seeds to germinate. So, we decided to create a type of "green house" for them, with plastic in order to create a better environment with a warmer temperature to see if they finally germinate.
-<img src= "../../images/aweek.jpg" alt="Photo of idea of samples after a week">
-<img src= "../../images/aweek2.jpg" alt="Photo of samples after a week">
+<img src= "../../images/weeks.jpg" alt="Photo of idea of samples after a week">
+
 We hope they grow in this days and will put pictures of the progress.
 :0
 
