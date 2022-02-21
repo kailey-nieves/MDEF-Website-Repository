@@ -1,5 +1,5 @@
 # Design Studio .02
-
+## Kai's
 <img src= "../../images/INSpo.pdf" alt="Photo of kai">
 
 ## Wasteful Playfulness 
