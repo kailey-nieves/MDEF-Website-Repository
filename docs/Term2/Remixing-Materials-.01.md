@@ -8,14 +8,10 @@ Lara has a project called 'Be Grounded' that she did for Fabriacademy in 2019 wh
 Here some of Lara's work:
 <img src= "../../images/Lara Campos.png" alt="Photo of Lara Campos work">
 <img src= "../../images/Lara.png" alt="Photo of Lara Campos work">
-
 And Carolina Etchevers work:
 <img src= "../../images/Carolina.png" alt="Photo of Carolina Etchevers work">
-
 This are more experimentations w/ bio-threads but in this case as part of Lara Campos biomaterials class & group experimentation.
-<img src= "../../images/biohilos2.jpg" alt="Photo of Bio-threads">
-<img src= "../../images/biohilosgrupo.jpg" alt="Photo of Bio-threads">
-
+<img src= "../../images/biohilos4.jpg" alt="Photo of Bio-threads">
 Part of how could I imagine this kind of sculptures is based on Robert Cannon's work 'Terraform' 2010. 
 <img src= "../../images/RobertCannon.jpg" alt="Photo of Robert Cannon's work">
 <img src= "../../images/RobertCannon2.png" alt="Photo of Robert Cannon's work">
@@ -53,7 +49,13 @@ As shown below, we experimented be putting the soil below the biomaterial (exper
 <img src= "../../images/remix6.jpg" alt="Photo of idea of experiment A">
 After it we decided to experiment with spreading water on the material seed, biomaterial, soil. And on experiment C, we tried to be more creative and instead of using a cup/ petridish we used chicken wire.
 <img src= "../../images/remix.jpg" alt="Photo of idea of experiment B & C">
-Our samples in our molds:
+
+We used as recipe for our samples:
+- Agar agar: 10 grs.
+- Water: 200 ml.
+- Glicerine: 2 ml.
+- Vinegar: 2 grs.
+- Soil: 10 grs. (varies)
 <img src= "../../images/biosamples2.jpg" alt="Photo of idea of samples">
 <img src= "../../images/biosamples3.jpg" alt="Photo of idea of experiment B & C">
 We did a bigger scale of our experiment and got out of the petri dishes to see if seeds grow on sculpture made out of soil (shown below). 
