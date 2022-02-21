@@ -5,7 +5,7 @@ This week we started a biomaterial workshop w/ Lara Campos. Lara has worked befo
 Here some of Lara's work:
 <img src= "../../images/Lara Campos.png" alt="Photo of Lara Campos work">
 <img src= "../../images/Lara.png" alt="Photo of Lara Campos work">
-In this workshop, we learned about the origin of the materials we used in the workshop such as agar agr, gelatin, wax, resine, alginate and chloride.
+In this workshop, we learned about the origin of the materials we used in the workshop such as agar agar, gelatin, wax, resine, alginate and chloride.
 We did samples in the class w/ all the materials mentioned before, to see the different properties of each material after it dried.
 Lara told us to explore w/ the materials that we tried in the class, to keep exploring the possibilities of each.
 As exploratory material, I have decided to opt for creating bio-threads. For two years now, I have immersed myself in the world of research into materials based on organic waste. Bio-threads as such can be created with sodium alginate and calcium chloride, together with water. Pigments or other waste can be added to help its formation. I had never tried to create bio-threads before, since last December I participated in a workshop with an Argentine researcher named Carolina Etchevers. After this workshop, my interest in continuing to explore biothreads intensified and now I would like to continue exploring them.
@@ -25,15 +25,26 @@ For the biothreads I used this recipe in order just to keep exploring the forms 
 
 - Calcium chloride solution: 30 grs. CaCl / 500 ml. H2O
 
+Process:
+
 1. choose ingredients 
+
 2. grind additives
+
 3. weight & write quantities 
+
 4. prepare frame with fabric
+
 5. mix ingredients
+
 6. spray calcium chloride solution on fabric
+
 7. pour mix
+
 8. spray calcium chloride to solidify 9. let it dry
+
 10. remove from frame
+
 This are more experimentations w/ bio-threads but in this case as part of Lara Campos biomaterials class & group experimentation.
 <img src= "../../images/biohilos4.jpg" alt="Photo of Bio-threads">
 
@@ -51,13 +62,21 @@ I did too some samples w/ agar agar & egg shells, for me to use the waste of my 
 
 Process:
 1. select ingredients
+
 2. weight & write quantities
+
 3. prepare frame with fabric
+
 4. pour water slowly into powder (biopolymer)
-cook at mid fire 10/15 mins or till boiling point and turn it down add plasticizer (glycerin/oil) & antibacterial (vinegar or essential oil)
+
+6. cook at mid fire 10/15 mins or till boiling point and turn it down add plasticizer (glycerin/oil) & antibacterial (vinegar or essential oil)
+
 7. add additives
+
 8. pour in frame
+
 9. leave it dry completely (to avoid shrinkage)
+
 10. remove from frame
 
 The egg shells are almost entirely made of calcium carbonate. The shell also has a thin outermost coating called the bloom or cuticle that helps keep out bacteria and dust.
@@ -66,6 +85,7 @@ For me, I chose to work w/ egg shells because we cooked them a lot in my house s
 <img src= "../../images/agaragar2.jpg" alt="Photo of my sample material">
 
 After this workshop, I wanted to create living sculptures or garments that germinate food. Lara has a project called 'Be Grounded' that she did for Fabriacademy in 2019 where she knitted seeds into yarn filaments. That made me wonder if one of possibles uses can be to create natural-based threads that could grow food plants to be able to create street sculptures and occupy public spaces to be able to cultivate. Below, my first try of making bio-threads. Part of how could I imagine this kind of sculptures is based on Robert Cannon's work 'Terraform' 2010. 
+
 <img src= "../../images/RobertCannon.jpg" alt="Photo of Robert Cannon's work">
 <img src= "../../images/RobertCannon2.png" alt="Photo of Robert Cannon's work">
 But, this sculptures are very sophisticated more than what I'm looking for. Actually, I wish I could try to create earthen structures where the bio-threads could get tangled up and plants could grow. I am not looking for these sculptures to fall into the aesthetic, on the contrary, I seek to produce accessible food for everyone with them.
@@ -74,7 +94,7 @@ Also, instead of creating living sculptures, living garments could be created ju
 
 Also, other uses can be creatign garments w/ this biomaterials or decomposables bags, or pots, soaps and many other things. In this case, my samples of theads can be use to create bio-based fibers and textiles in a way to substitute textiles that take to much time to degrade and/or are very toxic to our environment. This replacing textiles use in fashion, decorations, furniture, etc.
 
-As for my samples in agar, I have to change the recipe in order for it to be 
+As for my samples in agar, I have to change the recipe in order for it to be hard and does not break quickly.
 
 
 
