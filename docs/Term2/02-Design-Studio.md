@@ -7,7 +7,7 @@ w/ Anna Mestres, Borka Moravcsik & Georges Hanna
 
 This trimester I decided to keep exploring on doing toys made out of biomaterials, trash and other materials for the next intervention. But this time, instead of just only Anna & me, Borka & George joined us to build and work different ideas of building toys with this materials & applying tech to it.
 
-At first George & Anna designed some toys based on the materials George found on the streets in Pobleonu last thursday february 3 2022 and ones that she brought from her home. This was because some of us in the master, had this thing in mind on rescuing things that people throw out on particular days in Barcelona & use them as materials for building stuff such as furniture, toys, planters, etc.
+At first George & Anna designed some toys based on the materials George found on the streets in Pobleonu last thursday february 3, 2022 and ones that she brought from her home. This was because some of us in the master, had this thing in mind on rescuing things that people throw out on particular days in Barcelona & use them as materials for building stuff such as furniture, toys, planters, etc.
 
 This designs were made by George & Anna:
 <img src= "../../images/Trash.jpg" alt="Photo of Anna's Trash">
