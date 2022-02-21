@@ -43,8 +43,9 @@ We did our reserch w/ some documents Laura shared to us, for it to be more fast 
 <img src= "../../images/Remixin3.jpg" alt="Photo of documents">
 <img src= "../../images/Remixing4.jpg" alt="Photo of documents">
 This research is based in Ruben's & I, as we joined for this workshop because we have an idea for intervention to create living sculptures that produce food. 
-<img src= "../../images/remiiix.jpg" alt="Photo of our idea of the sculptures">
+Our ideas for it, were this drawing that Ruben made in order for we to visualize them.
 <img src= "../../images/REMix copy.jpg" alt="Photo of ideas">
+<img src= "../../images/remiiix.jpg" alt="Photo of our idea of the sculptures">
 We digressed a bit in terms of creating materials themselves, to experiment with whether food can be germinated in biomaterials.
 
 Before all experimenting and creating new materials, we created a plan that made sense to us in order for it to work and that the seeds germinate in our material. We developed 4 methods to experiment with biomaterial and see which of all could work.
@@ -53,7 +54,6 @@ As shown below, we experimented be putting the soil below the biomaterial (exper
 After it we decided to experiment with spreading water on the material seed, biomaterial, soil. And on experiment C, we tried to be more creative and instead of using a cup/ petridish we used chicken wire.
 <img src= "../../images/remix.jpg" alt="Photo of idea of experiment B & C">
 Our samples in our molds:
-<img src= "../../images/biosamples.jpg" alt="Photo of samples">
 <img src= "../../images/biosamples2.jpg" alt="Photo of idea of samples">
 <img src= "../../images/biosamples3.jpg" alt="Photo of idea of experiment B & C">
 We did a bigger scale of our experiment and got out of the petri dishes to see if seeds grow on sculpture made out of soil (shown below). 
