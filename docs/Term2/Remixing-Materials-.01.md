@@ -61,6 +61,7 @@ I did too some samples w/ agar agar & egg shells, for me to use the waste of my 
 - Egg shells: 41 grs.
 
 Process:
+
 1. select ingredients
 
 2. weight & write quantities
