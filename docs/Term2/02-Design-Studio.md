@@ -38,3 +38,9 @@ Ruben made a plan to experiment w/ putting seeds on biomaterials.
 
 We tried by creating things without biomaterials, just creating the sculptures w/ soil & compost and the seed inside.
 <img src= "../../images/sculptures.jpg" alt="Photo of Green sculptures">
+
+## BI0-Stamps
+w/ George Hanna
+
+As the micro challenge that Fab academy gave us from 14 feb. to 17 of feb., we were assigned to do a project in four days that could joined all the things the we learned in that past weeks in Fab academy classes. So, George and I joined since we were together in the toys intervention of the desgin studio. We decided to do stamps fro kids made out of biomaterials and recicled materials that we would may found in the streets or maybe in Iaac too. 
+So our approach to star it was the exact same day that they assign us the project. We talk it through and started sketching possible form to do the biomaterial stamps (base & drawings). Like, doing molds in silicone, clay, wood, etc. And after it, we decided to use my design of the carrusel persons that I made for Fab acedemy the week before, to do the stamps handles & too, to use recicled materials to do it. We talked to Dídac to see if their group was going to use the bioplastic sheet that they did for Remixing Materials for Laura & he agreed on us using it. 
