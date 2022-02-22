@@ -27,23 +27,25 @@ For the biothreads I used this recipe in order just to keep exploring the forms 
 
 Process:
 
-1. choose ingredients 
+1. choose the ingredients 
 
-2. grind additives
+2. grinded the additives
 
-3. weight & write quantities 
+3. weighted & wrote quantities 
 
-4. prepare frame with fabric
+4. prepared the frame with fabric
 
-5. mix ingredients
+5. mixed ingredients
 
-6. spray calcium chloride solution on fabric
+6. sprayed calcium chloride solution on fabric
 
-7. pour mix
+7. poured the mix
 
-8. spray calcium chloride to solidify 9. let it dry
+8. sprayed calcium chloride to solidify 
 
-10. remove from frame
+9. left it dry
+
+10. removed it from frame
 
 This are more experimentations w/ bio-threads but in this case as part of Lara Campos biomaterials class & group experimentation.
 <img src= "../../images/biohilos4.jpg" alt="Photo of Bio-threads">
@@ -62,23 +64,23 @@ I did too some samples w/ agar agar & egg shells, for me to use the waste of my 
 
 Process:
 
-1. select ingredients
+1. selected the ingredients
 
-2. weight & write quantities
+2. weighted & wrote quantities
 
-3. prepare frame with fabric
+3. prepared the frame with fabric
 
-4. pour water slowly into powder (biopolymer)
+4. poured water slowly into powder (biopolymer)
 
-6. cook at mid fire 10/15 mins or till boiling point and turn it down add plasticizer (glycerin/oil) & antibacterial (vinegar or essential oil)
+6. cooked it at mid fire 10/15 mins or till boiling point and turn it down add plasticizer (glycerin/oil) & antibacterial (vinegar or essential oil)
 
-7. add additives
+7. added the additives
 
-8. pour in frame
+8. poured mix in the frame
 
-9. leave it dry completely (to avoid shrinkage)
+9. left it dry completely (to avoid shrinkage)
 
-10. remove from frame
+10. removed it from frame
 
 The egg shells are almost entirely made of calcium carbonate. The shell also has a thin outermost coating called the bloom or cuticle that helps keep out bacteria and dust.
 For me, I chose to work w/ egg shells because we cooked them a lot in my house so it is a waste that is constant. But, it too works as fertilizer for plants and for unclogging drains, so if they decomposed they could be usefull. Agar Agar is a renewable resource derived from red macro algae and it is local since you can localize them in spanish coasts. Works as a fertilizer, it is compostable & it's industrial use: gastronomy, medicine, farmaceutic.
