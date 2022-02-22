@@ -1,7 +1,7 @@
 # Remixing Materials
 ## W/ Lara Campos
 
-This week we started a biomaterial workshop w/ Lara Campos. Lara has worked before in Remixing Material together w/ Fabriacademy BCN. 
+This week we started a biomaterial workshop w/ Lara Campos. Lara has worked before in Remix "El Barrio" together w/ Fabriacademy BCN. 
 Here some of Lara's work:
 <img src= "../../images/Lara Campos.png" alt="Photo of Lara Campos work">
 <img src= "../../images/Lara.png" alt="Photo of Lara Campos work">
