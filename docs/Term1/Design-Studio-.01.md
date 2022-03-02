@@ -10,8 +10,7 @@ Having a conversation with one of my colleagues (Ruben), we came to the conclusi
 This is our concept map in the house, about things that revolve around the word "Agriculture".
 <img src= "../../images/mapaconceptual.png" alt="Photo of our Conceptual Map">
 
-Although I think I still have things to experiments in order to have an idea of where I want to go with agriculture, I decided to start by experimenting on the possibilities of creating toys with biomaterial.
-
+ 
 
 
 
